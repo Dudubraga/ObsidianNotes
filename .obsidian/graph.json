@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Eduardo",
+      "color": {
+        "a": 1,
+        "rgb": 5860785
+      }
+    },
+    {
+      "query": "path:Unicap/Graduação  ",
+      "color": {
+        "a": 1,
+        "rgb": 11569487
+      }
+    },
+    {
+      "query": "path:Maratona/",
+      "color": {
+        "a": 1,
+        "rgb": 15262809
+      }
+    },
+    {
+      "query": "path:Unicap/TCC  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Queen/",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
+    },
+    {
+      "query": "path:Cursos/",
+      "color": {
+        "a": 1,
+        "rgb": 4919143
+      }
+    },
+    {
+      "query": "path:Unicap/PIBIC  ",
+      "color": {
+        "a": 1,
+        "rgb": 12997924
+      }
+    },
+    {
+      "query": "file:To Do",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.674337965244903,
+  "close": true
+}

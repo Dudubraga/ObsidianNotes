@@ -1,0 +1,31 @@
+Boa tarde a todos.
+
+Hoje, eu vou introduzir o artigo “Applying machine learning to assess emotional reactions to video game content streamed on Spanish Twitch channels”, publicado em 2024 na revista Computer Speech & Language.
+
+Este estudo surge num contexto muito atual: o crescimento das plataformas de streaming, como a Twitch, que se tornou um espaço central para transmissões de jogos superando competidores como o YouTube Gaming ou Facebook Gaming.
+
+Com milhões de usuários ativos, a Twitch é mais do que uma plataforma de visualização — ela é uma comunidade interativa, onde os espectadores participam em tempo real por meio de mensagens no chat, criando um ambiente rico em reações espontâneas, opiniões e emoções.
+
+Esse cenário levanta uma pergunta muito interessante: como podemos entender as emoções e sentimentos expressos nesses chats ao vivo, de forma automática? É aí que entra a proposta do artigo. Os autores propõem o uso de técnicas de inteligência artificial para detectar emoções e sentimentos em mensagens reais de chat da Twitch, com foco especial em transmissões feitas em espanhol, durante transmissões de videogames.
+
+Vale destacar que o espanhol, apesar de ser a língua foco do estudo, apresenta uma enorme variação regional e cultural, o que torna o desafio ainda maior para as ferramentas de inteligência artificial. O idioma é falado em mais de 20 países e cada um possui suas expressões, gírias e particularidades, o que aumenta a relevância de um corpus bem definido e contextualizado, como o que foi construído neste estudo.
+
+Para isso, o primeiro passo do estudo foi a criação de um corpus inédito, composto por 2216 mensagens coletadas de transmissões reais. Todas essas mensagens foram rotuladas manualmente com dois tipos de informação: a polaridade (positiva, negativa ou neutra) e a emoção expressa (como aprovação, desaprovação, tristeza, raiva, empolgação e neutra).
+
+Esse é um dos principais diferenciais do estudo: é o primeiro corpus em espanhol com esse nível de anotação emocional aplicado ao ambiente da Twitch. Isso é extremamente relevante, pois grande parte dos trabalhos existentes utilizam dados mais estruturados, como avaliações de jogos ou fóruns — enquanto este foca em interações espontâneas, informais e rápidas, cheias de gírias, ironias e até palavras inventadas, que ocorrem durante transmissões ao vivo, o que representa um grande desafio para os sistemas de análise de sentimentos baseados em linguagem.
+
+Para construir o corpus, os pesquisadores seguiram critérios bem definidos. Eles selecionaram canais em língua espanhola, com até 1000 espectadores simultâneos, pois transmissões com públicos muito grandes dificultam a análise, tornando os chats quase ininteligíveis devido à quantidade de mensagens por segundo. Além disso, os canais escolhidos tinham conteúdo focado em videogames, com diversidade de gêneros — como World of Warcraft, League of Legends, Red Dead Redemption 2, Dark Souls e Fortnite. Também houve um cuidado em selecionar streamers com webcam, e manter um equilíbrio entre streamers homens e mulheres, pois foi observado que o tipo de resposta emocional do público pode variar com o perfil de quem transmite.
+
+O processo de coleta envolveu o uso de softwares como o Twitch Leecher, para baixar os vídeos das transmissões, e o TwitchDownloader, para extrair os chats em formato estruturado. Depois disso, as mensagens passaram por um processo de filtragem: os autores eliminaram mensagens com apenas emojis, links, nomes de usuários e conteúdos de bots. Também foi feita uma anonimização completa dos dados, respeitando diretrizes éticas de privacidade.
+
+A rotulagem foi feita manualmente por dois especialistas, seguindo um guia bem detalhado. Em casos de divergência, um terceiro especialista era consultado até que se chegasse a um consenso — e, se não houvesse acordo, a mensagem era descartada. Esse processo garantiu alta confiabilidade no conjunto de dados final.
+
+Para a classificação emocional, os autores se basearam no modelo de Plutchik, que contempla emoções como alegria, confiança, raiva, medo, entre outras. No entanto, adaptaram esse modelo ao contexto da Twitch, focando nas emoções mais recorrentes nesse tipo de ambiente: aprovação, desaprovação, tristeza, raiva, hype (ou empolgação) e neutra.
+
+Um exemplo interessante citado no artigo é a emoção “hype”, que representa aquele entusiasmo antecipado por algo que está prestes a acontecer — como o lançamento de um jogo ou uma atualização importante. Essa emoção é tão presente na Twitch que a própria plataforma criou o recurso chamado “hype train” para estimular essa reação nos chats.
+
+Com o corpus pronto, o estudo segue para a aplicação de modelos de aprendizado de máquina — que será abordada pelos meus colegas mais à frente.
+
+Até aqui, o trabalho já oferece uma contribuição sólida para as áreas de Processamento de Linguagem Natural e Análise de Sentimentos, especialmente em ambientes informais, espontâneos e altamente contextuais como os chats da Twitch. É uma pesquisa que abre caminho para aplicações práticas em moderação automática de conteúdo, recomendações personalizadas, e também para entender melhor como o público reage emocionalmente ao que é transmitido — o que pode ser valioso tanto para os streamers quanto para as plataformas.
+
+A partir de agora, meus colegas vão aprofundar os métodos de classificação e treinamento utilizados e os resultados obtidos com os modelos aplicados. Muito obrigado!
