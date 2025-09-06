@@ -1,4 +1,4 @@
-Casos de Teste - [[Queen Pitch]]
+Casos de Teste e2e - [[Queen Pitch]]
 ### Conta
 
 ##### Funcionalidade: Cadastro de Usuário
@@ -21,7 +21,7 @@ Casos de Teste - [[Queen Pitch]]
 	- **Passos para execução:**
 		1. Acessar a página de cadastro.
 		2. Preencher os campos com dados válidos e, no campo e-mail, inserir o endereço que já existe na base. 
-		3. *Clicar em “Próximo”.*
+		3. Clicar em “Próximo”.
 		4. Preencher os dados da empresa.
 		5. Clicar em “Próximo”.
 		6. Clicar em “Acessar conta”.
@@ -91,119 +91,220 @@ Casos de Teste - [[Queen Pitch]]
 		- O sistema deve levar o usuário para a tela de “Meus Projetos”. 
 - **CT-009: Editar um Projeto**
 	- **Pré-condição:**
+		- O usuário precisa ter um projeto existente.
 	- **Passos para execução:**
+		1. Navegar para a seção "Meus Projetos".
+		2. Clicar em "Acessar" ao lado do projeto desejado.
+		3. Editar informações da base de conhecimento.
+		4. Clicar em "Salvar alterações".
 	- **Resultado esperado:**
+		- O sistema deve mostrar uma mensagem de sucesso.
 - **CT-010: Excluir um Projeto**
-	- **Pré-condição:**
+	- **Pré-condição:** 
+		- O usuário precisa ter um projeto existente.
 	- **Passos para execução:**
+		1. Navegar para a seção "Meus Projetos".
+		2. Clicar em "Excluir projeto" ao lado do projeto desejado.
+		3. Clicar em "Sim, excluir" na confirmação.
 	- **Resultado esperado:**
+		- O sistema deve mostrar uma mensagem de sucesso.
+##### Funcionalidade: Posicionamento
+- **CT-023: Criar um Posicionamento**
+    - **Pré-condição:**
+        - O usuário precisa estar logado e dentro de um projeto existente.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Criar" na seção do Posicionamento.
+        3. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O posicionamento é salvo com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
+- **CT-024: Gerar novo Posicionamento**
+    - **Pré-condição:**
+        - O usuário precisa ter um posicionamento já criado.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção do Posicionamento.
+        3. Clicar em "Novo posicionamento".
+        4. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
+- **CT-025: Editar um Posicionamento**
+    - **Pré-condição:**
+        - O usuário precisa ter um posicionamento já criado.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção do Posicionamento.
+        3. Clicar no posicionamento que deseja editar.
+        4. Alterar o texto escrito.
+        5. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
+- **CT-026: Compartilhar um Posicionamento**
+    - **Pré-condição:**
+        - O usuário precisa ter um posicionamento já criado.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção do Posicionamento.
+        3. Clicar em "Compartilhar".
+    - **Resultado esperado:**
+        - A página de compartilhamento deve abrir com o nome do projeto e conteúdo.
 ##### Funcionalidade: Pitch
 - **CT-011: Criar um Pitch**
-	- **Pré-condição:** 
+	- **Pré-condição:** 
 		- O usuário precisa estar logado e dentro de um projeto existente.
 	- **Passos para execução:**
-		1. Entrar na Jornada através do dashboard. *(Marketing de Produto / Conteúdo)*
+		1. Entrar na Jornada através do dashboard. *(Marketing de Conteúdo)*
 		2. Clicar em "Criar" na seção do Pitch.
 		3. Clicar em "Salvar".
 	- **Resultado esperado:**
 		- O pitch é salvo com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
 - **CT-012: Gerar novo Pitch**
 	- **Pré-condição:**
+		- O usuário precisa ter um pitch de vendas já criado.
 	- **Passos para execução:**
+		1. Entrar na Jornada através do dashboard. *(Marketing de Conteúdo)*
+		2. Clicar em "Acessar" na seção do Pitch.
+		3. Clicar em "Novo pitch de vendas".
+		4. Clicar em "Salvar".
 	- **Resultado esperado:**
+		- O sistema deve mostrar uma mensagem de sucesso.
 - **CT-013: Editar um Pitch**
 	- **Pré-condição:**
+		- O usuário precisa ter um pitch de vendas já criado.
 	- **Passos para execução:**
+		1. Entrar na Jornada através do dashboard. *(Marketing de Conteúdo)*
+		2. Clicar em "Acessar" na seção do Pitch.
+		3. Clicar em "Novo pitch de vendas".
+		4. Alterar o texto escrito.
+		5. Clicar em "Salvar".
 	- **Resultado esperado:**
+		- O sistema deve mostrar uma mensagem de sucesso.
 - **CT-014: Compartilhar um Pitch**
 	- **Pré-condição:**
+		- O usuário precisa ter um pitch de vendas já criado.
 	- **Passos para execução:**
+		1. Entrar na Jornada através do dashboard. *(Marketing de Conteúdo)*
+		2. Clicar em "Acessar" na seção do Pitch.
+		3. Clicar em "Compartilhar".
 	- **Resultado esperado:**
+		- A página de compartilhamento deve abrir com o nome do projeto e conteúdo.
 ##### Funcionalidade: Persona
 - **CT-015: Criar uma Persona**
-	- **Pré-condição:** 
-		- O usuário precisa estar logado e dentro de um projeto existente.
-	- **Passos para execução:**
-		1. Entrar na Jornada através do dashboard. *(ou Marketing de Conteúdo)*
-		2. Clicar em "Criar" na seção do Persona.
-		3. Clicar em "Salvar".
-	- **Resultado esperado:**
-		- A persona é salva com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
+    - **Pré-condição:**
+        - O usuário precisa estar logado e dentro de um projeto existente.
+    - **Passos para execução:
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Criar" na seção da Persona.
+        3. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - A persona é salva com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
 - **CT-016: Gerar nova Persona**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
+    - **Pré-condição:**
+        - O usuário precisa ter uma persona já criada.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção da Persona.
+        3. Clicar em "Nova persona".
+        4. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
 - **CT-017: Editar uma Persona**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
+    - **Pré-condição:**
+        - O usuário precisa ter uma persona já criada.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção da Persona.
+        3. Clicar na persona que deseja editar.
+        4. Alterar as informações.
+        5. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
 - **CT-018: Compartilhar uma Persona**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
+    - **Pré-condição:**
+        - O usuário precisa ter uma persona já criada.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção da Persona.
+        3. Clicar em "Compartilhar".
+    - **Resultado esperado:**
+        - A página de compartilhamento deve abrir com o nome do projeto e conteúdo.
+##### Funcionalidade: Planejamento de Conteúdo
+- **CT-027: Criar um Planejamento de Conteúdo**
+    - **Pré-condição:**
+        - O usuário precisa estar logado e dentro de um projeto existente.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Criar" na seção do Planejamento de Conteúdo.
+        3. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O plano de conteúdo é salvo com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
+- **CT-028: Gerar novo Planejamento de Conteúdo**
+    - **Pré-condição:**
+        - O usuário precisa ter um plano de conteúdo já criado.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção do Planejamento de Conteúdo.
+        3. Clicar em "Novo plano de conteúdo".
+        4. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
+- **CT-029: Editar um Planejamento de Conteúdo**
+    - **Pré-condição:**
+        - O usuário precisa ter um planejamento de conteúdo já criado.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção do Planejamento de Conteúdo.
+        3. Clicar no plano de conteúdo que deseja editar.
+        4. Alterar as informações.
+        5. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
+- **CT-030: Compartilhar um Planejamento de Conteúdo**
+    - **Pré-condição:**
+        - O usuário precisa ter um plano de conteúdo já criado.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Conteúdo)_
+        2. Clicar em "Acessar" na seção do Planejamento de Conteúdo.
+        3. Clicar em "Compartilhar".
+    - **Resultado esperado:**
+        - A página de compartilhamento deve abrir com o nome do projeto e conteúdo.
 ##### Funcionalidade: Landing Page
 - **CT-019: Criar uma Landing Page**
-	- **Pré-condição:** 
-		- O usuário precisa estar logado e dentro de um projeto existente.
-	- **Passos para execução:**
-		1. Entrar na Jornada através do dashboard. *(ou Marketing de Produto)*
-		2. Clicar em "Criar" na seção do Landing Page.
-		3. Clicar em "Salvar".
-	- **Resultado esperado:**
-		- O landing page é salvo com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
+    - **Pré-condição:**
+        - O usuário precisa estar logado e dentro de um projeto existente.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Produto)_
+        2. Clicar em "Criar" na seção da Landing Page.
+        3. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - A landing page é salva com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
 - **CT-020: Gerar nova Landing Page**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
+    - **Pré-condição:**
+        - O usuário precisa ter uma landing page já criada.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Produto)_
+        2. Clicar em "Acessar" na seção da Landing Page.
+        3. Clicar em "Nova landing page".
+        4. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
 - **CT-021: Editar uma Landing Page**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
+    - **Pré-condição:**
+        - O usuário precisa ter uma landing page já criada.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Produto)_
+        2. Clicar em "Acessar" na seção da Landing Page.
+        3. Clicar na landing page que deseja editar.
+        4. Alterar as informações.
+        5. Clicar em "Salvar".
+    - **Resultado esperado:**
+        - O sistema deve mostrar uma mensagem de sucesso.
 - **CT-022: Compartilhar uma Landing Page**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
-##### Funcionalidade: Posicionamento
-- **CT-023: Criar um Posicionamento**
-	- **Pré-condição:** 
-		- O usuário precisa estar logado e dentro de um projeto existente.
-	- **Passos para execução:** 
-		1. Começar uma Jornada através do dashboard. 
-		2. Clicar em "Criar".
-		3. Clicar em "Salvar".
-	- **Resultado esperado:**
-		- O posicionamento é salvo com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
-- **CT-024: Gerar novo Posicionamento**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
-- **CT-025: Editar um Posicionamento**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
-- **CT-026: Compartilhar um Posicionamento**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
-##### Funcionalidade: Plano de Conteúdo
-- **CT-027: Criar um Plano de Conteúdo**
-	- **Pré-condição:** 
-		- O usuário precisa estar logado e dentro de um projeto existente.
-	- **Passos para execução:**
-		1. Entrar na Jornada através do dashboard. *(ou Marketing de Conteúdo)*
-		2. Clicar em "Criar" na seção do Planejamento de Conteúdo.
-		3. Clicar em "Salvar".
-	- **Resultado esperado:**
-		- O planejamento de conteúdo é gerado e salvo com sucesso e fica disponível para consulta dentro da “base de criações” do projeto.
-- **CT-028: Gerar novo Plano de Conteúdo**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
-- **CT-029: Editar um Plano de Conteúdo**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
-- **CT-030: Compartilhar um Plano de Conteúdo**
-	- **Pré-condição:**
-	- **Passos para execução:**
-	- **Resultado esperado:**
+    - **Pré-condição:**
+        - O usuário precisa ter uma landing page já criada.
+    - **Passos para execução:**
+        1. Entrar na Jornada através do dashboard. _(Marketing de Produto)_
+        2. Clicar em "Acessar" na seção da Landing Page.
+        3. Clicar em "Compartilhar".
+    - **Resultado esperado:**
+        - A página de compartilhamento deve abrir com o nome do projeto e conteúdo.

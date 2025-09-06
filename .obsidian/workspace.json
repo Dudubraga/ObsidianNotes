@@ -11,31 +11,12 @@
             "id": "9fd1ef688812d5d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "To Do.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Queen/Testes QP.pdf"
               },
-              "icon": "lucide-file",
-              "title": "To Do"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a1be5d4581263abe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21ba3a94af4823fc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file-text",
+              "title": "Testes QP"
             }
           }
         ]
@@ -95,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -189,8 +170,11 @@
   },
   "active": "9fd1ef688812d5d4",
   "lastOpenFiles": [
-    "Cursos/Cursos.md",
+    "Queen/Testes QP.md",
+    "Queen/Testes QP.pdf",
+    "Queen/TestesQP.pdf",
     "To Do.md",
+    "Cursos/Cursos.md",
     "README.md",
     "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
     "Contas/Contas.md",
@@ -215,8 +199,6 @@
     "Unicap/PIBIC/Artigos/A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf",
     "Unicap/PIBIC/Artigos/Prediction of Motor Failure Time Using An Artificial.pdf",
     "Unicap/PIBIC/Artigos/Forecasting Imminent Failures in Electrical.pdf",
-    "Unicap/PIBIC/Artigos/Cooling Fan Fault Diagnostics Using Vibrational and Acoustical Analyses.pdf",
-    "Unicap/PIBIC/Artigos/Challenges and Opportunities of Deep Learning 1.pdf",
     "Unicap/TCC/TCC.md",
     "Unicap/Graduação/6º Período/6º Período.md",
     "Unicap/Graduação/6º Período/PDAE/Images/Lojinha IA - Business Case.jpg",
@@ -225,13 +207,11 @@
     "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg",
     "Unicap/Graduação/6º Período/PDAE/Images/Modelo de Curva de ROI - Business Case.jpg",
     "Pasted image 20250901202258.png",
-    "Queen/Testes QP.md",
     "Lounge do Açaí/Lounge do Açaí.md",
     "Pasted image 20250812013214.png",
     "Unicap/Graduação/6º Período/Computação Gráfica.md",
     "Unicap/PIBIC/PIBIC.md",
     "Unicap/Graduação/6º Período/Arquitetura de Sistemas.md",
-    "Unicap/Graduação/6º Período/Paradigmas de Linguagens de Programação.md",
     "Pasted image 20250530000837.png",
     "Untitled.canvas"
   ]
