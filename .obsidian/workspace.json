@@ -11,12 +11,15 @@
             "id": "9fd1ef688812d5d4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Queen/Testes QP.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Testes QP"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -170,10 +173,10 @@
   },
   "active": "9fd1ef688812d5d4",
   "lastOpenFiles": [
-    "Queen/Testes QP.md",
-    "Queen/Testes QP.pdf",
-    "Queen/TestesQP.pdf",
     "To Do.md",
+    "Queen/Testes QP.pdf",
+    "Queen/Testes QP.md",
+    "Queen/TestesQP.pdf",
     "Cursos/Cursos.md",
     "README.md",
     "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
