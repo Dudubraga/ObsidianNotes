@@ -27,7 +27,7 @@
 - [ ] Resolver questões do [[Competitive Programming 4 - Book 1.pdf]] 
 - [ ] Resolver provas antigas SBC
 	- [ ] 2022
-	- [ ] 2023
+	- [x] 2023
 	- [ ] 2024
 - [ ] Estudar até a 1ª Fase _(13/09/25)_
 	- [ ] **AdHoc** (xadrez, cartas, etc...) _(2 por semana)_
