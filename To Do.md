@@ -16,8 +16,8 @@
 - [ ] [[Ciência dos Dados]]
 	- [ ]  Leitura do **[[Learning From Data]]**
 - [ ] [[Projeto de Desenvolvimento Ágil e Eficaz]] 
-	- [ ] Business case 
-	- [ ] Blueprint
+	- [x] Sprint 1 - Business case 
+	- [ ] Sprint 2 - Blueprint
 	- [ ] Estrutura do banco de dados
 	- [ ] Estudo da plataforma **n8n** - [drive com aulas](https://drive.google.com/drive/folders/1aZcf7Hy9vcyIWfhep2jwZYOgLXN6D2_f)
 	- [ ] Estudo de **chatbots Telegram**
