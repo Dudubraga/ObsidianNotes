@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4051000d858c25",
+        "id": "553ff509beff5da6",
         "type": "tabs",
         "children": [
           {
-            "id": "737618b50a93effe",
+            "id": "74373587423973aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nova aba"
             }
           }
         ]
@@ -79,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 200
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -162,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -170,8 +166,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "737618b50a93effe",
+  "active": "da6701288be2bada",
   "lastOpenFiles": [
+    "Unicap/Maratona/Maratona.md",
+    "Unicap/Maratona/Sem título.base",
+    "Unicap/Maratona/Sem título 1.base",
+    "Unicap/Maratona/Bits.md",
+    "To Do.md",
+    "README.md",
     "Unicap/PIBIC/Learning From Data/Learning from data a short course.pdf",
     "Unicap/PIBIC/Isolation Forest/Isolation Forest - Roteiro.pdf",
     "Unicap/PIBIC/Isolation Forest/Isolation Forest - Apresentação.md",
@@ -179,26 +181,21 @@
     "Unicap/PIBIC/Isolation Forest/Isolation Forest.pdf",
     "Unicap/PIBIC/Learning From Data/Learning From Data.md",
     "Unicap/PIBIC/Isolation Forest",
-    "To Do.md",
     "Queen/Testes QP.pdf",
     "Queen/Testes QP.md",
     "Queen/TestesQP.pdf",
     "Cursos/Cursos.md",
-    "README.md",
     "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
     "Contas/Contas.md",
     "Untitled",
     "Unicap/Graduação/6º Período/Ciência dos Dados.md",
-    "Unicap/PIBIC/Learning From Data",
     "Unicap/Graduação/5º Período/5º Período.md",
     "Unicap/Unicap.md",
     "TCC.md",
     "Unicap/Graduação/Graduação.md",
     "Cursos/React Testing Library and Jest.md",
     "Queen/Análise comparativa 1.5 x 2.5.md",
-    "Unicap/Maratona/Maratona.md",
     "Unicap/Maratona/Algoritmos/SegTree.md",
-    "Unicap/Maratona/Algoritmos",
     "Eduardo.md",
     "Unicap/Graduação/6º Período/PDAE/Projeto de Desenvolvimento Ágil e Eficaz.md",
     "To Do-NOTE-DUDU.md",
@@ -213,7 +210,6 @@
     "Lounge do Açaí/Lounge do Açaí.md",
     "Pasted image 20250812013214.png",
     "Unicap/Graduação/6º Período/Computação Gráfica.md",
-    "Unicap/PIBIC/PIBIC.md",
     "Pasted image 20250530000837.png",
     "Untitled.canvas"
   ]

@@ -26,7 +26,7 @@
 #### [[Maratona]]
 - [ ] Resolver questões do [[Competitive Programming 4 - Book 1.pdf]] 
 - [ ] Resolver provas antigas SBC
-	- [ ] 2022
+	- [x] 2022
 	- [x] 2023
 	- [ ] 2024
 - [ ] Estudar até a 1ª Fase _(13/09/25)_
@@ -40,13 +40,15 @@
 		- [ ] Heap
 		- [ ] Set
 	- [ ] **Greedy** 
-	- [ ] **Bit Manipulation** (bitset, AND, OR, XOR, shl, shr) _
+	- [ ] **Bit Manipulation** 
+		- [ ] bitset
+		- [ ] bitmask
+		- [ ] AND, OR, XOR, shl, shr
 	- [ ] **Teoria dos Grafos** 
 		- [x] Fundamentos e Travessia (BFS, DFS)
-		- [ ] Dijkstra
-		- [ ] Shortest Path / All-Pairs Shortest Path
+		- [x] Dijkstra
 		- [ ] Componentes Fortemente Conexas
-		- [ ] Caminhos e Ciclos Eulerianos
+		- [x] Caminhos e Ciclos Eulerianos
 	- [ ] **Matemática**
 		- [ ] Teoria dos números (Primos, Fatoração, MDC, MMC)
 		- [ ] Aritmética Modular (mod 10e9+7)
