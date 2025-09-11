@@ -13,19 +13,24 @@
 	- [ ] OpenGL e Visual Studio
 	- [ ] vcpkg & freeglut
 	- [ ] Algebra (Matrizes)
+	- [ ] MiniProjeto (desenho barbie)
 - [ ] [[Ciência dos Dados]]
 	- [ ]  Leitura do **[[Learning From Data]]**
+	- [ ] Projeto - dataset vinho
 - [ ] [[Projeto de Desenvolvimento Ágil e Eficaz]] 
 	- [x] Sprint 1 - Business case 
 	- [ ] Sprint 2 - Blueprint
 	- [ ] Estrutura do banco de dados
 	- [ ] Estudo da plataforma **n8n** - [drive com aulas](https://drive.google.com/drive/folders/1aZcf7Hy9vcyIWfhep2jwZYOgLXN6D2_f)
 	- [ ] Estudo de **chatbots Telegram**
+- [ ] [[Arquitetura de Sistemas]]
+	- [ ] Projeto - Data Streaming
 
 ---
 #### [[Maratona]]
 - [ ] Resolver questões do [[Competitive Programming 4 - Book 1.pdf]] 
 - [ ] Resolver provas antigas SBC
+	- [x] 2020
 	- [x] 2022
 	- [x] 2023
 	- [ ] 2024
@@ -40,14 +45,13 @@
 		- [ ] Heap
 		- [ ] Set
 	- [ ] **Greedy** 
-	- [ ] **Bit Manipulation** 
-		- [ ] bitset
-		- [ ] bitmask
-		- [ ] AND, OR, XOR, shl, shr
-	- [ ] **Teoria dos Grafos** 
-		- [x] Fundamentos e Travessia (BFS, DFS)
+	- [x] **Bit Manipulation** 
+		- [x] bitset
+		- [x] bitmask
+		- [x] AND, OR, XOR, shl, shr
+	- [x] **Básico da Teoria dos Grafos** 
+		- [x] Fundamentos e Buscas (BFS, DFS)
 		- [x] Dijkstra
-		- [ ] Componentes Fortemente Conexas
 		- [x] Caminhos e Ciclos Eulerianos
 	- [ ] **Matemática**
 		- [ ] Teoria dos números (Primos, Fatoração, MDC, MMC)
