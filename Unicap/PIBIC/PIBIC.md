@@ -6,10 +6,10 @@ Artigos:
 - [[Forecasting Imminent Failures in Electrical.pdf]]
 - [[Prediction of Motor Failure Time Using An Artificial.pdf]]
 
-Leituras:
-- Learning From Data
-- Write Science in Plain English
+Livros:
+- [[Learning From Data]]
+- [[Write Science in Plain English]]
 
 Modelos: 
-- OSVM
-- Isolation Forest
+- [[Isolation Forest]]
+- [[OSVM]]

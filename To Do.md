@@ -1,6 +1,6 @@
 
-#### Graduação
-- [ ] [[Lounge do Açaí]]
+#### Graduação - [[Unicap]]
+- [ ] **Lounge do Açaí**
 	- [ ] Relatório  (ajeitar formato do relatório)
 	- [x] Armazenamento Assíncrono
 	- [x] Menu Dinâmico
@@ -8,67 +8,32 @@
 	- [ ] API Email
 	- [ ] Preços Dinâmicos
 	- [ ] Adicionar e Remover Produtos definitivamente
-	- [ ] 
-- [ ] [[Computação Gráfica]]
-	- [ ] OpenGL e Visual Studio
-	- [ ] vcpkg & freeglut
-	- [ ] Algebra (Matrizes)
-	- [ ] MiniProjeto (desenho barbie)
-- [ ] [[Ciência dos Dados]]
-	- [ ]  Leitura do **[[Learning From Data]]**
+- [ ] **Computação Gráfica**
+	- [ ] Estudar
+		- OpenGL
+		- vcpkg
+		- freeglut
+		- Algebra
+	- [x] MiniProjeto (desenho Barbie)
+	- [ ] Prova *25/09/25*
+- [ ] **Ciência dos Dados**
+	- [ ] Estudar
+		- Algebra
+	- [ ]  Leitura do **Learning From Data**
 	- [ ] Projeto - dataset vinho
-- [ ] [[Projeto de Desenvolvimento Ágil e Eficaz]] 
+- [ ] **Projeto de Desenvolvimento Ágil e Eficaz** 
 	- [x] Sprint 1 - Business case 
 	- [ ] Sprint 2 - Blueprint
-	- [ ] Estrutura do banco de dados
-	- [ ] Estudo da plataforma **n8n** - [drive com aulas](https://drive.google.com/drive/folders/1aZcf7Hy9vcyIWfhep2jwZYOgLXN6D2_f)
-	- [ ] Estudo de **chatbots Telegram**
-- [ ] [[Arquitetura de Sistemas]]
-	- [ ] Projeto - Data Streaming
+	- [ ] Sprint 3 - Design
+	- [ ] Sprint 4 a 6 - Desenvolvimento
+	- [ ] Estudar a plataforma **n8n** - [drive com aulas](https://drive.google.com/drive/folders/1aZcf7Hy9vcyIWfhep2jwZYOgLXN6D2_f)
+	- [ ] Estudar **chatbots Telegram**
+- [ ] **Arquitetura de Sistemas**
+	- [x] Projeto - Data Streaming
+	- [ ] Prova *25/09/25*
 
 ---
-#### [[Maratona]]
-- [ ] Resolver questões do [[Competitive Programming 4 - Book 1.pdf]] 
-- [ ] Resolver provas antigas SBC
-	- [x] 2020
-	- [x] 2022
-	- [x] 2023
-	- [ ] 2024
-- [ ] Estudar até a 1ª Fase _(13/09/25)_
-	- [ ] **AdHoc** (xadrez, cartas, etc...) _(2 por semana)_
-		- [ ] Simulação Direta (ex.: "João e Maria jogam um jogo com as seguintes regras...")
-		- [ ] Manipulação de Grids e Matrizes (ex.: problemas q ocorrem em um tabuleiro 2D)
-		- [ ] Backtracking (ex.: problemas de "gerar todas as possibilidades" -> N-Queens)
-	- [ ] **Data Structure** 
-		- [x] SegTree 
-		- [x] Map
-		- [ ] Heap
-		- [ ] Set
-	- [ ] **Greedy** 
-	- [x] **Bit Manipulation** 
-		- [x] bitset
-		- [x] bitmask
-		- [x] AND, OR, XOR, shl, shr
-	- [x] **Básico da Teoria dos Grafos** 
-		- [x] Fundamentos e Buscas (BFS, DFS)
-		- [x] Dijkstra
-		- [x] Caminhos e Ciclos Eulerianos
-	- [ ] **Matemática**
-		- [ ] Teoria dos números (Primos, Fatoração, MDC, MMC)
-		- [ ] Aritmética Modular (mod 10e9+7)
-		- [ ] Combinatória, probabilidade, permutação
-	- [x] **DP** 
-	- [ ] **Geometria**
-	- [ ] **Algoritmos de Strings**
-- [x] Atualização automática do progresso de questões na planilha (Gemini)
-- [ ] Questões pendentes de contests
-	- [ ] [160 - Factors and Factorials](https://onlinejudge.org/external/1/160.pdf)
-	- [ ] [10503 - The dominoes solitaire](https://onlinejudge.org/external/105/10503.pdf)
-	- [ ] [439 - Knight Moves](https://onlinejudge.org/external/4/439.pdf)
-	- [ ] [151 - Power Crisis](https://onlinejudge.org/external/1/151.pdf)
-
-___
-#### Queen Pitch
+#### [[Queen Pitch]]
 - [ ] Estudar o Front - [frontend](https://github.com/douglasrangel-stack/queenpitch-frontend)
 - [ ] Estudar o Back - [backend](https://github.com/douglasrangel-stack/queenpitch-backend/tree/main)
 - [ ] Testes e2e com Cypress - [Jira](https://gclindenberg.atlassian.net/jira/software/c/projects/QP/boards/3?assignee=712020%3A5cc93586-32e7-491f-90e6-81aae55eb2e7&assignee=620bbc21ad01000069606ba7&assignee=70121%3A4099dc01-74d7-4a1f-a960-a963c80ec32b&assignee=712020%3A21fcb7d0-13e0-441c-8179-63c9d909d270&assignee=70121%3A200797b7-f62b-4fe1-8821-5e5403a2f68a&assignee=6283d648222d36006fb66773&assignee=62423f225f63fd0069b1029c&assignee=60282122faaf2a0068374f47&assignee=unassigned&label=FRONTEND%2CSTUDY%2CQA) 
@@ -111,28 +76,39 @@ ___
 		- [x] Gerar novo (CT-028)
 		- [ ] Editar (CT-029)
 		- [x] Compartilhar ? (CT-030)
-- [ ] Documentação dos Testes e2e :  [[Testes QP]]
+- [x] Documentação dos Testes e2e
 - [ ] Testes API com Postman
 - [ ] Testes unitários com Jest
 ---
-#### [[PIBIC]]
+#### PIBIC [[Unicap]]
 - [x] Criar **Research Framework** e colocar no Obsidian
-- [ ] Ler Artigo [[Challenges and Opportunities of Deep Learning.pdf]]
+- [ ] Ler **Challenges and Opportunities of Deep Learning**
 - [x] Estudar/Revisar o modelo **Isolation Forest**
 - [x] Apresentação dia 28/08/25
-- [ ] Ler Artigo [[Prediction of Motor Failure Time Using An Artificial.pdf]]
-- [ ] Ler Artigo [[A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf]]
-- [ ] Leitura do **[[Learning From Data]]**
+- [ ] Ler **Prediction of Motor Failure Time Using An Artificial.pdf
+- [ ] Ler **A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf**
+- [ ] Ler **Learning From Data**
+- [ ] Ficha de Frequência
 - [ ] Estudar/Revisar o modelo **OSVM**
-- [ ] Colocar os modelos **OSVM** e **Isolation Forest** em PyTorch (começo setembro)
-- [ ] Ler Artigo [[Forecasting Imminent Failures in Electrical.pdf]]
-- [ ] Ler Artigo [[Cooling Fan Fault Diagnostics Using Vibrational and Acoustical Analyses.pdf]]
-- [ ] Leitura do _Write Science in Plain English_
+- [ ] Colocar os modelos **OSVM** e **Isolation Forest** em **PyTorch**
+- [ ] Ler **Forecasting Imminent Failures in Electrical**
+- [ ] Ler **Cooling Fan Fault Diagnostics Using Vibrational and Acoustical Analyses**
+- [ ] Ler **Write Science in Plain English**
 - [ ] Realizar experimentos nos modelos, mergulhar no **MTSA**
 
 ---
-#### Cursos
-- [ ] [[React Testing Library and Jest]]
+#### Maratona - [[Unicap]]
+- [ ] Resolver questões do **Livro de Programação Competitiva**
+- [x] Resolver provas antigas SBC
+	- [x] 2020
+	- [x] 2022
+	- [x] 2023
+- [x] Atualização automática do progresso de questões na planilha (Gemini)
+- [ ] Encerramento
+
+___
+#### [[Cursos]]
+- [ ] **React Testing Library and Jest**
 	- [ ]  Big Project Overview
 	- [ ]  The Mysterious 'Act' Function!
 	- [ ]  Handling Data Fetching in Tests

@@ -8,37 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74373587423973aa",
+            "id": "38df220ec2d41f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Unicap/Graduação/6º Período/Ciência dos Dados.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "Ciência dos Dados"
             }
           },
           {
-            "id": "8af6b9e62263877d",
+            "id": "3d243c673a0ca6f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do.md",
+                "file": "Unicap/PIBIC/PIBIC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "PIBIC"
+            }
+          },
+          {
+            "id": "abd017f2503e646e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 338.5
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -187,51 +197,51 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8af6b9e62263877d",
+  "active": "abd017f2503e646e",
   "lastOpenFiles": [
-    "Unicap/Maratona/Texto de encerramento.md",
+    "Unicap/Graduação/Graduação.md",
+    "Unicap/PIBIC/Isolation Forest/Isolation Forest.md",
+    "Unicap/PIBIC/PIBIC.md",
+    "Unicap/Graduação/6º Período/Ciência dos Dados.md",
+    "Unicap/PIBIC/Learning From Data/Learning From Data.md",
     "To Do.md",
+    "Unicap/Graduação/5º Período/Projeto Integrador/Lounge do Açaí.md",
+    "Unicap/Graduação/5º Período/Projeto Integrador/Projeto Integrador.md",
+    "Unicap/Graduação/5º Período/5º Período.md",
+    "Unicap/Graduação/6º Período/PDAE/Projeto de Desenvolvimento Ágil e Eficaz.md",
+    "Cursos/React Testing Library and Jest.md",
+    "Cursos/Cursos.md",
+    "Unicap/Maratona/Texto de encerramento.md",
     "Unicap/Maratona/Maratona.md",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Arquitetura de Sistemas.md",
+    "Unicap/Maratona/Bits.md",
+    "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
+    "Unicap/Graduação/6º Período/PDAE/Modelo de Criacao - Base de Cálculo.png",
+    "Unicap/Graduação/6º Período/PDAE/Modelo de Criacao - Business Case.pdf",
+    "Unicap/Graduação/6º Período/PDAE/Modelo de Criacao - Blueprint.pdf",
+    "Unicap/Graduação/6º Período/PDAE/Images/Modelo de Curva de ROI - Business Case.jpg",
+    "Unicap/Graduação/6º Período/PDAE/Images/Lojinha IA - Business Case.jpg",
+    "Unicap/Graduação/6º Período/PDAE/Modelo de Ficha - Business Case 1.pptx",
+    "Unicap/Graduação/6º Período/PDAE/Modelo de Ficha - Business Case.pptx",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Data Streaming - Roteiro Apresentação.md",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Data Streaming em Tempo Real com Apache Kafka.pdf",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas",
     "Unicap/Maratona/Sem título.base",
     "Unicap/Maratona/Sem título 1.base",
-    "Unicap/Maratona/Bits.md",
     "README.md",
     "Unicap/PIBIC/Learning From Data/Learning from data a short course.pdf",
     "Unicap/PIBIC/Isolation Forest/Isolation Forest - Roteiro.pdf",
     "Unicap/PIBIC/Isolation Forest/Isolation Forest - Apresentação.md",
-    "Unicap/PIBIC/Isolation Forest/Isolation Forest - Canva.pdf",
-    "Unicap/PIBIC/Isolation Forest/Isolation Forest.pdf",
-    "Unicap/PIBIC/Learning From Data/Learning From Data.md",
-    "Unicap/PIBIC/Isolation Forest",
-    "Queen/Testes QP.pdf",
     "Queen/Testes QP.md",
-    "Queen/TestesQP.pdf",
-    "Cursos/Cursos.md",
-    "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
     "Contas/Contas.md",
-    "Untitled",
-    "Unicap/Graduação/6º Período/Ciência dos Dados.md",
-    "Unicap/Graduação/5º Período/5º Período.md",
     "Unicap/Unicap.md",
     "TCC.md",
-    "Unicap/Graduação/Graduação.md",
-    "Cursos/React Testing Library and Jest.md",
     "Queen/Análise comparativa 1.5 x 2.5.md",
     "Unicap/Maratona/Algoritmos/SegTree.md",
-    "Eduardo.md",
-    "Unicap/Graduação/6º Período/PDAE/Projeto de Desenvolvimento Ágil e Eficaz.md",
-    "To Do-NOTE-DUDU.md",
-    "Unicap/TCC/TCC.md",
-    "Unicap/Graduação/6º Período/6º Período.md",
-    "Unicap/Graduação/6º Período/PDAE/Images/Lojinha IA - Business Case.jpg",
-    "Unicap/Graduação/6º Período/PDAE/Images/Base de Cálculo - Business Case.png",
     "Pasted image 20250901202837.png",
     "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg",
-    "Unicap/Graduação/6º Período/PDAE/Images/Modelo de Curva de ROI - Business Case.jpg",
     "Pasted image 20250901202258.png",
-    "Lounge do Açaí/Lounge do Açaí.md",
     "Pasted image 20250812013214.png",
-    "Unicap/Graduação/6º Período/Computação Gráfica.md",
     "Pasted image 20250530000837.png",
     "Untitled.canvas"
   ]

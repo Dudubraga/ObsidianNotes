@@ -1,7 +1,7 @@
 Cadeira do [[5º Período]]
 
 #### Sobre o Projeto
-Este projeto é um sistema de autoatendimento desenvolvido para otimizar o atendimento no quiosque do **Lounge do Açaí** na Universidade Católica de Pernambuco.
+Este projeto é um sistema de autoatendimento desenvolvido para otimizar o atendimento no quiosque do **[[Lounge do Açaí]]** na Universidade Católica de Pernambuco.
 O objetivo é proporcionar uma experiência mais ágil e prática para os clientes, permitindo que realizem seus pedidos diretamente em um terminal de autoatendimento prático e estético.
 #### Funcionalidades
 - Interface intuitiva para seleção de produtos;

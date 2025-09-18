@@ -1,3 +1,4 @@
+[[Maratona]]
 **Título:** Encerrando minha jornada na Programação Competitiva pela UNICAP.
 
 Este fim de semana, participei da minha terceira e última maratona de programação representando o grupo de programação competitiva da Universidade Católica de Pernambuco (UNICAP). Com isso, encerro um ciclo de quase três anos de muito aprendizado, desafios e crescimento.

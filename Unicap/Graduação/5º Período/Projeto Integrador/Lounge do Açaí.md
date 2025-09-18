@@ -1,4 +1,4 @@
-Continuação do [[Projeto Integrador]] por conta própria.
+Continuação do [[Lounge do Açaí]] por conta própria.
 
 #### Sobre o Projeto
 Este projeto é um sistema de autoatendimento desenvolvido para otimizar o atendimento no quiosque do **Lounge do Açaí** na Universidade Católica de Pernambuco.

@@ -1,20 +1,14 @@
 Cadeira do [[6º Período]]
-### [[Lojinha IA]]
+ 
+ **Projeto:** [[Lojinha IA]]
+###### Sprint 1 - Business Case
 
-### Sprint 1 - Business Case
+###### Sprint 2 - Blueprint
 
-![[Lojinha IA - Business Case.jpg]]
+###### Sprint 3 - ???
 
-![[Modelo de Curva de ROI - Business Case.jpg]]
+###### Sprint 4 - Desenvolvimento
 
-![[Base de Cálculo - Business Case.png]] 
+###### Sprint 5 - Desenvolvimento
 
-### Sprint 2 - Blueprint
-
-### Sprint 3 - 
-
-### Sprint 4 - 
-
-### Sprint 5 - 
-
-### Sprint 6 - 
+###### Sprint 6 - Desenvolvimento

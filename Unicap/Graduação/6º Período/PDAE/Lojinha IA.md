@@ -1,4 +1,11 @@
+#### Equipe: 
+- Eduardo Braga
+- Henrique Franca
+- Isabela Medeiros
+- Júlia Galvão
+- Rafael Angelim
 
+---
 #### Resumo:
 O projeto "Lojinha IA" visa desenvolver uma plataforma de vendas conversacional, utilizando um chatbot inteligente como o principal ponto de contato com o cliente. A solução tem como objetivo principal automatizar e humanizar a experiência de compra online, oferecendo aos clientes um assistente virtual capaz de responder a perguntas, fornecer detalhes sobre produtos e gerenciar pedidos, tudo através de uma interface de chat. Além disso, o sistema servirá como uma ferramenta de análise de dados para a equipe interna, com diferentes níveis de acesso para funcionários e proprietários.
 
@@ -31,13 +38,5 @@ O sistema será acessado por três tipos de usuários, cada um com permissões e
 - **Acesso Administrativo por Chat:** Utilizando a mesma interface de chat interna segura, o proprietário terá acesso administrativo completo.
 - **Consultas e Comandos:** Além de poder fazer todas as consultas do funcionário, o dono poderá executar comandos para **visualizar e alterar dados** do sistema.
 - **Exemplos de Comandos:** "Alterar o preço do 'Produto X' para R$ 99,90", "Gerar relatório financeiro de agosto" ou "Verificar logs de acesso do sistema".
-
----
-#### Equipe: 
-- Eduardo Braga
-- Henrique Franca
-- Isabela Medeiros
-- Júlia Galvão
-- Rafael Angelim
 
 ---

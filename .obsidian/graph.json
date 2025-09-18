@@ -8,14 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Eduardo",
-      "color": {
-        "a": 1,
-        "rgb": 5860785
-      }
-    },
-    {
-      "query": "path:Unicap/Graduação  ",
+      "query": "file:Unicap",
       "color": {
         "a": 1,
         "rgb": 11569487
@@ -29,13 +22,6 @@
       }
     },
     {
-      "query": "path:Unicap/TCC  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:Queen/",
       "color": {
         "a": 1,
@@ -46,14 +32,21 @@
       "query": "path:Cursos/",
       "color": {
         "a": 1,
-        "rgb": 4919143
+        "rgb": 4721764
       }
     },
     {
       "query": "path:Unicap/PIBIC  ",
       "color": {
         "a": 1,
-        "rgb": 12997924
+        "rgb": 14316048
+      }
+    },
+    {
+      "query": "path:Unicap/Graduação  ",
+      "color": {
+        "a": 1,
+        "rgb": 13385278
       }
     },
     {
@@ -67,13 +60,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.00155925155925,
+  "lineSizeMultiplier": 1.00155925155925,
+  "collapse-forces": false,
+  "centerStrength": 0.645530145530146,
+  "repelStrength": 14.7401247401247,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 75,
   "scale": 0.674337965244903,
   "close": true
 }
