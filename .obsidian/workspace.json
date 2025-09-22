@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "553ff509beff5da6",
+        "id": "2c5c39812e0cad69",
         "type": "tabs",
         "children": [
           {
-            "id": "38df220ec2d41f53",
+            "id": "4274b3eff04b93a8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 404.5
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -157,60 +157,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "38df220ec2d41f53",
+  "active": "4274b3eff04b93a8",
   "lastOpenFiles": [
+    "Unicap/Maratona/Bits.md",
+    "Unicap/Graduação/6º Período/6º Período.md",
+    "To Do.md",
+    "Teste.canvas",
+    "Unicap/Graduação/5º Período/5º Período.md",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming/Data Streaming - Roteiro Apresentação.pdf",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming/Data Streaming - Roteiro Apresentação.md",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Arquitetura de Sistemas.md",
+    "Unicap/Graduação/6º Período/PDAE/Projeto de Desenvolvimento Ágil e Eficaz.md",
+    "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
+    "Unicap/Graduação/6º Período/PDAE/Modelos/Modelo de Criacao - Base de Cálculo.png",
+    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/01-PLP-Aula-Apresentacao-conceitos.pdf",
+    "Unicap/Graduação/6º Período/PDAE/Modelos",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming/Data Streaming em Tempo Real com Apache Kafka.pdf",
+    "Unicap/Graduação/6º Período/Paradigmas/Material Aula",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming",
+    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Revisão – Arquitetura de Sistemas Distribuídos.pdf",
+    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/04-PLP-Aula-Nomes Vinculacoes e escopos.pdf",
+    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/05-PLP-Aula-Tipos de Dados.pdf",
+    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/03-PLP-Aula-Sintaxe e semântica.pdf",
+    "Unicap/Graduação/6º Período/Paradigmas/Paradigmas de Linguagens de Programação.md",
     "Unicap/Graduação/6º Período/Ciência dos Dados.md",
     "Eduardo/Contas.md",
     "Eduardo/Untitled.md",
-    "Eduardo/Sem título.base",
-    "Eduardo/Senhas.base",
     "Eduardo/Sem título.md",
     "Unicap/PIBIC/PIBIC.md",
     "Unicap/Graduação/Graduação.md",
     "Unicap/PIBIC/Isolation Forest/Isolation Forest.md",
     "Unicap/PIBIC/Learning From Data/Learning From Data.md",
-    "To Do.md",
     "Unicap/Graduação/5º Período/Projeto Integrador/Lounge do Açaí.md",
     "Unicap/Graduação/5º Período/Projeto Integrador/Projeto Integrador.md",
-    "Unicap/Graduação/5º Período/5º Período.md",
-    "Unicap/Graduação/6º Período/PDAE/Projeto de Desenvolvimento Ágil e Eficaz.md",
     "Cursos/React Testing Library and Jest.md",
     "Cursos/Cursos.md",
     "Unicap/Maratona/Texto de encerramento.md",
     "Unicap/Maratona/Maratona.md",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Arquitetura de Sistemas.md",
-    "Unicap/Maratona/Bits.md",
-    "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
-    "Unicap/Graduação/6º Período/PDAE/Modelo de Criacao - Base de Cálculo.png",
-    "Unicap/Graduação/6º Período/PDAE/Modelo de Criacao - Business Case.pdf",
-    "Unicap/Graduação/6º Período/PDAE/Modelo de Criacao - Blueprint.pdf",
     "Unicap/Graduação/6º Período/PDAE/Images/Modelo de Curva de ROI - Business Case.jpg",
     "Unicap/Graduação/6º Período/PDAE/Images/Lojinha IA - Business Case.jpg",
-    "Unicap/Graduação/6º Período/PDAE/Modelo de Ficha - Business Case 1.pptx",
-    "Unicap/Graduação/6º Período/PDAE/Modelo de Ficha - Business Case.pptx",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Data Streaming - Roteiro Apresentação.md",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Data Streaming em Tempo Real com Apache Kafka.pdf",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas",
-    "Unicap/Maratona/Sem título.base",
-    "Unicap/Maratona/Sem título 1.base",
     "README.md",
     "Unicap/PIBIC/Isolation Forest/Isolation Forest - Apresentação.md",
     "Queen/Testes QP.md",
-    "Unicap/Unicap.md",
     "Pasted image 20250901202837.png",
     "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg",
     "Pasted image 20250901202258.png",
     "Pasted image 20250812013214.png",
     "Pasted image 20250530000837.png",
-    "Untitled.canvas"
+    "Teste.canvas"
   ]
 }
