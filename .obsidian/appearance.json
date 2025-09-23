@@ -1,4 +1,5 @@
 {
-  "accentColor": "#2d48cd",
-  "cssTheme": "Dracula Official"
+  "accentColor": "#095c90",
+  "cssTheme": "Things",
+  "showRibbon": true
 }

@@ -1,72 +1,93 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "file:Unicap",
+      "query": "path:\"00 - Templates\"  ",
       "color": {
         "a": 1,
-        "rgb": 11569487
+        "rgb": 5658198
       }
     },
     {
-      "query": "path:Maratona/",
+      "query": "path:\"01 - Dailys\"  ",
       "color": {
         "a": 1,
-        "rgb": 15262809
+        "rgb": 7428266
       }
     },
     {
-      "query": "path:Queen/",
+      "query": "path:\"02 - Projects\"  ",
       "color": {
         "a": 1,
-        "rgb": 11752160
+        "rgb": 3641487
       }
     },
     {
-      "query": "path:Cursos/",
+      "query": "path:\"03 - Areas\"  ",
       "color": {
         "a": 1,
-        "rgb": 4721764
+        "rgb": 3181387
       }
     },
     {
-      "query": "path:Unicap/PIBIC  ",
+      "query": "path:\"04 - Resources\"  ",
       "color": {
         "a": 1,
-        "rgb": 14316048
+        "rgb": 9868365
       }
     },
     {
-      "query": "path:Unicap/Graduação  ",
+      "query": "path:\"05 - Archive\"  ",
       "color": {
         "a": 1,
-        "rgb": 13385278
+        "rgb": 10315309
       }
     },
     {
       "query": "file:To Do",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16467532
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 16467532
+      }
+    },
+    {
+      "query": "file:PARA Method",
+      "color": {
+        "a": 1,
+        "rgb": 16467532
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 1.2460498960499,
-  "lineSizeMultiplier": 1.20530145530146,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.22370913752582,
+  "lineSizeMultiplier": 1.40238586995228,
   "collapse-forces": true,
-  "centerStrength": 0.645530145530146,
-  "repelStrength": 14.7401247401247,
-  "linkStrength": 1,
-  "linkDistance": 122,
-  "scale": 0.621812372764816,
+  "centerStrength": 0.657787906844242,
+  "repelStrength": 12.4250409514992,
+  "linkStrength": 0,
+  "linkDistance": 243,
+  "scale": 0.5300123263476355,
   "close": true
 }
