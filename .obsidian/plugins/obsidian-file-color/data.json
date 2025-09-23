@@ -45,10 +45,6 @@
   ],
   "fileColors": [
     {
-      "path": "PARA Method.canvas",
-      "color": "deAZvzowPVjgKATKfIkdL"
-    },
-    {
       "path": "To Do.md",
       "color": "deAZvzowPVjgKATKfIkdL"
     },
@@ -65,10 +61,6 @@
       "color": "0Kz7FxkmSFSyECaRFJfcJ"
     },
     {
-      "path": "02 - Projects",
-      "color": "p7OKGD6W5oVi0yW4xvOVh"
-    },
-    {
       "path": "01 - Dailys",
       "color": "qiJcabwt0rHyvNdL3V8J4"
     },
@@ -79,6 +71,14 @@
     {
       "path": "README.md",
       "color": "deAZvzowPVjgKATKfIkdL"
+    },
+    {
+      "path": "PARA Method.canvas",
+      "color": "deAZvzowPVjgKATKfIkdL"
+    },
+    {
+      "path": "02 - Projects",
+      "color": "p7OKGD6W5oVi0yW4xvOVh"
     }
   ]
 }

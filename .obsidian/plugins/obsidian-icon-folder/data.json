@@ -42,7 +42,6 @@
     "iconName": "LiCalendarDays",
     "iconColor": "#7158aa"
   },
-  "02 - Projects": "LiPenBox",
   "03 - Areas": {
     "iconName": "LiComponent",
     "iconColor": "#308b4b"
@@ -55,7 +54,8 @@
     "iconName": "LiArchive",
     "iconColor": "#9d662d"
   },
-  "PARA Method.canvas": "LiBrain",
   "README.md": "LiText",
-  "To Do.md": "LiListTodo"
+  "To Do.md": "LiListTodo",
+  "PARA Method.canvas": "LiBrain",
+  "02 - Projects": "LiPenBox"
 }
