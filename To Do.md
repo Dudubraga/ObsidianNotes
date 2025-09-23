@@ -1,118 +1,60 @@
+---
 
-#### Graduação - [[Unicap]]
-- [ ] **Lounge do Açaí**
-	- [ ] Relatório  (ajeitar formato do relatório)
-	- [x] Armazenamento Assíncrono
-	- [x] Menu Dinâmico
-	- [ ] API Bluetooth
-	- [ ] API Email
-	- [ ] Preços Dinâmicos
-	- [ ] Adicionar e Remover Produtos definitivamente
-- [ ] **Computação Gráfica**
-	- [ ] Estudar
-		- OpenGL
-		- vcpkg
-		- freeglut
-		- Algebra
-	- [x] MiniProjeto (desenho Barbie)
-	- [ ] Prova *25/09/25*
-- [ ] **Ciência dos Dados**
-	- [ ] Estudar
-		- Algebra
-	- [ ]  Leitura do **Learning From Data**
-	- [ ] Projeto - dataset vinho
-- [ ] **Projeto de Desenvolvimento Ágil e Eficaz** 
-	- [x] Sprint 1 - Business case 
-	- [ ] Sprint 2 - Blueprint
-	- [ ] Sprint 3 - Design
-	- [ ] Sprint 4 a 6 - Desenvolvimento
-	- [ ] Estudar a plataforma **n8n** - [drive com aulas](https://drive.google.com/drive/folders/1aZcf7Hy9vcyIWfhep2jwZYOgLXN6D2_f)
-	- [ ] Estudar **chatbots Telegram**
-- [ ] **Arquitetura de Sistemas**
-	- [x] Projeto - Data Streaming
-	- [ ] Prova *25/09/25*
+kanban-plugin: board
 
 ---
-#### [[Queen Pitch]]
-- [ ] Estudar o Front - [frontend](https://github.com/douglasrangel-stack/queenpitch-frontend)
-- [ ] Estudar o Back - [backend](https://github.com/douglasrangel-stack/queenpitch-backend/tree/main)
-- [ ] Testes e2e com Cypress - [Jira](https://gclindenberg.atlassian.net/jira/software/c/projects/QP/boards/3?assignee=712020%3A5cc93586-32e7-491f-90e6-81aae55eb2e7&assignee=620bbc21ad01000069606ba7&assignee=70121%3A4099dc01-74d7-4a1f-a960-a963c80ec32b&assignee=712020%3A21fcb7d0-13e0-441c-8179-63c9d909d270&assignee=70121%3A200797b7-f62b-4fe1-8821-5e5403a2f68a&assignee=6283d648222d36006fb66773&assignee=62423f225f63fd0069b1029c&assignee=60282122faaf2a0068374f47&assignee=unassigned&label=FRONTEND%2CSTUDY%2CQA) 
-	- [ ] Usuário
-		- [x] Cadastro 
-			- [x] Novo Usuário
-			- [x] Usuário já cadastrado
-		- [x] Login
-			- [x] Usuário existente
-			- [x] Usuário inexistente
-			- [x] Logout
-		- [ ] Edit de Usuário
-			- [x] Dados Normais (Nome, Sobrenome, Cargo, etc...) 
-			- [ ] Dados Importante (E-mail & Senha) (CT-006)
-	- [ ] Projeto
-		- [x] Criar
-		- [ ] Apagar
-	- [ ] Pitch
-		- [x] Criar (CT-011)
-		- [x] Gerar novo (CT-012)
-		- [ ] Editar (CT-013)
-		- [x] Compartilhar ? (CT-014)
-	- [ ] Persona
-		- [x] Criar (CT-015)
-		- [x] Gerar novo (CT-016)
-		- [ ] Editar (CT-017)
-		- [x] Compartilhar ? (CT-018)
-	- [ ] Landing Page
-		- [x] Criar (CT-019)
-		- [x] Gerar novo (CT-020)
-		- [ ] Editar (CT-021)
-		- [x] Compartilhar ? (CT-022)
-	- [ ] Posicionamento
-		- [x] Criar (CT-023)
-		- [x] Gerar novo (CT-024)
-		- [ ] Editar (CT-025)
-		- [x] Compartilhar ? (CT-026)
-	- [ ] Plano de Conteúdo
-		- [x] Criar (CT-027)
-		- [x] Gerar novo (CT-028)
-		- [ ] Editar (CT-029)
-		- [x] Compartilhar ? (CT-030)
-- [x] Documentação dos Testes e2e
-- [ ] Testes API com Postman
-- [ ] Testes unitários com Jest
----
-#### PIBIC [[Unicap]]
-- [x] Criar **Research Framework** e colocar no Obsidian
-- [ ] Ler **Challenges and Opportunities of Deep Learning**
-- [x] Estudar/Revisar o modelo **Isolation Forest**
-- [x] Apresentação dia 28/08/25
-- [ ] Ler **Prediction of Motor Failure Time Using An Artificial.pdf
-- [ ] Ler **A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf**
-- [ ] Ler **Learning From Data**
-- [ ] Ficha de Frequência
-- [ ] Estudar/Revisar o modelo **OSVM**
-- [ ] Colocar os modelos **OSVM** e **Isolation Forest** em **PyTorch**
-- [ ] Ler **Forecasting Imminent Failures in Electrical**
-- [ ] Ler **Cooling Fan Fault Diagnostics Using Vibrational and Acoustical Analyses**
-- [ ] Ler **Write Science in Plain English**
-- [ ] Realizar experimentos nos modelos, mergulhar no **MTSA**
 
----
-#### Maratona - [[Unicap]]
-- [ ] Resolver questões do **Livro de Programação Competitiva**
-- [x] Resolver provas antigas SBC
-	- [x] 2020
-	- [x] 2022
-	- [x] 2023
-- [x] Atualização automática do progresso de questões na planilha (Gemini)
-- [ ] Encerramento
+## Backlog
 
-___
-#### [[Cursos]]
-- [ ] **React Testing Library and Jest**
-	- [ ]  Big Project Overview
-	- [ ]  The Mysterious 'Act' Function!
-	- [ ]  Handling Data Fetching in Tests
-- [ ] Barista?
-- [ ] 
+- [ ] **Finalizar** [[Lounge do Açaí]]
+- [ ] **Finalizar** [[React Testing Library and Jest]]
+- [ ] **Maratona** - [[Papelada]]
+- [ ] **UNICAP** - Sprint 3 [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [ ] **UNICAP** - Sprint 4 [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [ ] **UNICAP** - Sprint 5 [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [ ] **UNICAP** - Sprint 6 [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [ ] **Queen** - Desenvolvimento Frontend
+- [ ] **Queen** - [[Testes API Postman]]
+- [ ] **PIBIC** - Leitura [[Forecasting Imminent Failures in Electrical.pdf]]
+- [ ] **PIBIC** - Leitura [[Cooling Fan Fault Diagnostics Using Vibrational and Acoustical Analyses.pdf]]
+- [ ] **PIBIC** - Leitura [[Write Science in Plain English]]
+- [ ] **PIBIC** - Estudar Modelo [[OSVM]]
+- [ ] **PIBIC** - Passar [[Isolation Forest]] e [[OSVM]] para Pytorch
 
----
+
+## To Do
+
+- [ ] **UNICAP** - Revisar [[Computação Gráfica]]
+- [ ] **UNICAP** - Projeto [[Ciência dos Dados]]
+- [ ] **Queen** - [[Atualizações no Onboarding]]
+- [ ] **PIBIC** - Leitura [[A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf]]
+- [ ] **PIBIC** - Leitura [[Prediction of Motor Failure Time Using An Artificial.pdf]]
+- [ ] **PIBIC** - Aprofundar na Matemática [[Isolation Forest]]
+- [ ] **PIBIC** - Ficha de Frequência Mensal
+
+
+## Doing
+
+- [ ] **Setup** [[Obsidian]]
+- [ ] **UNICAP** - Revisar [[Arquitetura de Sistemas]]
+- [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]]
+- [ ] **PIBIC** - Leitura [[Challenges and Opportunities of Deep Learning.pdf]]
+- [ ] **Queen** - Cypress e2e
+- [ ] **Queen** - [[Casos de Teste e2e]]
+- [ ] **Maratona** - [[Texto de encerramento]]
+
+
+## Done
+
+- [ ] **UNICAP** - Sprint 1 [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [x] **UNICAP** - Sprint 2 [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [ ] **UNICAP** - Revisar [[Paradigmas de Linguagens de Programação]]
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":false,"full-list-lane-width":true,"move-dates":false}
+```
+%%

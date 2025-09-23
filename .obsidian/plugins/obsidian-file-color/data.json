@@ -1,0 +1,84 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "RipfTqF1eooJTFTqOVmoK",
+      "name": "Branco",
+      "value": "#ffffff"
+    },
+    {
+      "id": "RgwFonC67Ba0K-zGSHqfE",
+      "name": "Cinza",
+      "value": "#565656"
+    },
+    {
+      "id": "qiJcabwt0rHyvNdL3V8J4",
+      "name": "Roxo",
+      "value": "#7158aa"
+    },
+    {
+      "id": "p7OKGD6W5oVi0yW4xvOVh",
+      "name": "Azul",
+      "value": "#37908f"
+    },
+    {
+      "id": "0Kz7FxkmSFSyECaRFJfcJ",
+      "name": "Verde",
+      "value": "#308b4b"
+    },
+    {
+      "id": "gQfz-YCgDXYHtFWcAVyUG",
+      "name": "Amarelo",
+      "value": "#96944d"
+    },
+    {
+      "id": "m4zB3Ej0gCzWXl6WIi_4M",
+      "name": "Laranja",
+      "value": "#9d662d"
+    },
+    {
+      "id": "deAZvzowPVjgKATKfIkdL",
+      "name": "Vermelho",
+      "value": "#fb464c"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "PARA Method.canvas",
+      "color": "deAZvzowPVjgKATKfIkdL"
+    },
+    {
+      "path": "To Do.md",
+      "color": "deAZvzowPVjgKATKfIkdL"
+    },
+    {
+      "path": "05 - Archive",
+      "color": "m4zB3Ej0gCzWXl6WIi_4M"
+    },
+    {
+      "path": "04 - Resources",
+      "color": "gQfz-YCgDXYHtFWcAVyUG"
+    },
+    {
+      "path": "03 - Areas",
+      "color": "0Kz7FxkmSFSyECaRFJfcJ"
+    },
+    {
+      "path": "02 - Projects",
+      "color": "p7OKGD6W5oVi0yW4xvOVh"
+    },
+    {
+      "path": "01 - Dailys",
+      "color": "qiJcabwt0rHyvNdL3V8J4"
+    },
+    {
+      "path": "00 - Templates",
+      "color": "RgwFonC67Ba0K-zGSHqfE"
+    },
+    {
+      "path": "README.md",
+      "color": "deAZvzowPVjgKATKfIkdL"
+    }
+  ]
+}

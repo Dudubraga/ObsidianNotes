@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPenBox",
+      "LiListTodo",
+      "LiText",
+      "LiBrain",
+      "LiBrainCircuit"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00 - Templates": {
+    "iconName": "LiBookTemplate",
+    "iconColor": "#565656"
+  },
+  "01 - Dailys": {
+    "iconName": "LiCalendarDays",
+    "iconColor": "#7158aa"
+  },
+  "02 - Projects": "LiPenBox",
+  "03 - Areas": {
+    "iconName": "LiComponent",
+    "iconColor": "#308b4b"
+  },
+  "04 - Resources": {
+    "iconName": "LiLibraryBig",
+    "iconColor": "#96944d"
+  },
+  "05 - Archive": {
+    "iconName": "LiArchive",
+    "iconColor": "#9d662d"
+  },
+  "PARA Method.canvas": "LiBrain",
+  "README.md": "LiText",
+  "To Do.md": "LiListTodo"
+}

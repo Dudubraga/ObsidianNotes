@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4274b3eff04b93a8",
+            "id": "a578a77bda685ce6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "04 - Resources/Acadêmicos/Materials/Resumo Arquitetura de Sistemas - 1GQ (Bela).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resumo Arquitetura de Sistemas - 1GQ (Bela)"
             }
           }
         ]
@@ -67,14 +69,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 324.5
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -146,6 +148,28 @@
               "icon": "lucide-list",
               "title": "Sumário de Unicap"
             }
+          },
+          {
+            "id": "4a1c26ae92747d2b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "04 - Resources/Acadêmicos/Materials/Resumo Arquitetura de Sistemas - 1GQ (Bela).pdf"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "0575b8de8949885e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 3
@@ -157,62 +181,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-kanban:Create new board": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "print:Print note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4274b3eff04b93a8",
+  "active": "a578a77bda685ce6",
   "lastOpenFiles": [
-    "Unicap/Maratona/Bits.md",
-    "Unicap/Graduação/6º Período/6º Período.md",
+    "Excalidraw/Drawing 2025-09-23 17.44.29.excalidraw.md",
+    "04 - Resources/Acadêmicos/Materials/Resumo Arquitetura de Sistemas - 1GQ (Bela).pdf",
+    "Excalidraw",
     "To Do.md",
+    "04 - Resources/Acadêmicos/Materials/Untitled.canvas",
+    "02 - Projects/6º Período/Arquitetura de Sistemas.md",
+    "PARA Method.canvas",
+    "00 - Templates/Color Pallet.md",
+    "00 - Templates/Template Daily.md",
+    "01 - Dailys/20250923.md",
+    "02 - Projects/Obsidian Setup/Obsidian.md",
+    "README.md",
+    "old To Do.md",
+    "02 - Projects/PIBIC/Write Science in Plain English.md",
+    "02 - Projects/QueenPitch/Casos de Teste e2e.md",
+    "02 - Projects/6º Período/Ciência dos Dados.md",
+    "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
+    "02 - Projects/6º Período/Computação Gráfica.md",
+    "02 - Projects/Lounge do Açaí/Lounge do Açaí.md",
+    "02 - Projects/Maratona",
+    "03 - Areas/Trabalho/QueenPitch/QueenPitch.md",
+    "02 - Projects/QueenPitch/Atualizações no Onboarding.md",
+    "_NewOrg/01 - Dailys/2025-09-23.md",
+    "_NewOrg/01 - Dailys/Untitled.md",
+    "04 - Resources/Acadêmicos",
+    "_NewOrg/02 - Projects/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming/Projeto Arquitetura de SIstemas - Roteiro Apresentação.pdf",
+    "04 - Resources/Acadêmicos/Materials/Resumo Arquitetura de Sistemas - 1GQ (Ana Bia).pdf",
+    "04 - Resources/Acadêmicos/Materials/Projeto Arquitetura de Sistemas - Data Streaming em Tempo Real com Apache Kafka.pdf",
+    "04 - Resources/Acadêmicos/Materials/Aula Paradigmas 01 - Apresentação de Conceitos.pdf",
+    "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
+    "05 - Archive/Projects/5º Período/Análise de Algoritmos.md",
+    "04 - Resources/Acadêmicos/Materials/Modelo de Criação PDAE - Base de Cálculo.png",
+    "02 - Projects/PIBIC/Isolation Forest/Isolation Forest.md",
+    "02 - Projects/6º Período/6º Período.md",
+    "05 - Archive/Projects/5º Período/Redes de Computadores.md",
+    "05 - Archive/Projects/5º Período/5º Período.md",
+    "05 - Archive/Resourses/Materials/Projeto Redes - QUIC e HTTP3.pdf",
+    "05 - Archive/Resourses/Materials/Projeto Web Mobile - App Bicudinho's ToDo.pdf",
     "Teste.canvas",
-    "Unicap/Graduação/5º Período/5º Período.md",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming/Data Streaming - Roteiro Apresentação.pdf",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming/Data Streaming - Roteiro Apresentação.md",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Arquitetura de Sistemas.md",
-    "Unicap/Graduação/6º Período/PDAE/Projeto de Desenvolvimento Ágil e Eficaz.md",
-    "Unicap/Graduação/6º Período/PDAE/Lojinha IA.md",
-    "Unicap/Graduação/6º Período/PDAE/Modelos/Modelo de Criacao - Base de Cálculo.png",
-    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/01-PLP-Aula-Apresentacao-conceitos.pdf",
-    "Unicap/Graduação/6º Período/PDAE/Modelos",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming/Data Streaming em Tempo Real com Apache Kafka.pdf",
-    "Unicap/Graduação/6º Período/Paradigmas/Material Aula",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Seminário 1 - Data Streaming",
-    "Unicap/Graduação/6º Período/Arquitetura de Sistemas/Revisão – Arquitetura de Sistemas Distribuídos.pdf",
-    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/04-PLP-Aula-Nomes Vinculacoes e escopos.pdf",
-    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/05-PLP-Aula-Tipos de Dados.pdf",
-    "Unicap/Graduação/6º Período/Paradigmas/Material Aula/03-PLP-Aula-Sintaxe e semântica.pdf",
-    "Unicap/Graduação/6º Período/Paradigmas/Paradigmas de Linguagens de Programação.md",
-    "Unicap/Graduação/6º Período/Ciência dos Dados.md",
-    "Eduardo/Contas.md",
-    "Eduardo/Untitled.md",
-    "Eduardo/Sem título.md",
-    "Unicap/PIBIC/PIBIC.md",
-    "Unicap/Graduação/Graduação.md",
-    "Unicap/PIBIC/Isolation Forest/Isolation Forest.md",
-    "Unicap/PIBIC/Learning From Data/Learning From Data.md",
-    "Unicap/Graduação/5º Período/Projeto Integrador/Lounge do Açaí.md",
-    "Unicap/Graduação/5º Período/Projeto Integrador/Projeto Integrador.md",
-    "Cursos/React Testing Library and Jest.md",
-    "Cursos/Cursos.md",
-    "Unicap/Maratona/Texto de encerramento.md",
-    "Unicap/Maratona/Maratona.md",
+    "_NewOrg/Pasted image 20250923002206.png",
     "Unicap/Graduação/6º Período/PDAE/Images/Modelo de Curva de ROI - Business Case.jpg",
     "Unicap/Graduação/6º Período/PDAE/Images/Lojinha IA - Business Case.jpg",
-    "README.md",
-    "Unicap/PIBIC/Isolation Forest/Isolation Forest - Apresentação.md",
-    "Queen/Testes QP.md",
     "Pasted image 20250901202837.png",
     "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg",
     "Pasted image 20250901202258.png",
     "Pasted image 20250812013214.png",
-    "Pasted image 20250530000837.png",
-    "Teste.canvas"
+    "Pasted image 20250530000837.png"
   ]
 }

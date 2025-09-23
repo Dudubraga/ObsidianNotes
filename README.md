@@ -1,2 +1,3 @@
 # ObsidianNotes
-A way to sync obsidian notes
+Syncing Obsidian Notes with Github
+

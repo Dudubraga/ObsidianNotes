@@ -1,3 +1,6 @@
 {
-  "format": "DD-MM-YYYY"
+  "format": "YYYYMMDD",
+  "folder": "_NewOrg/01 - Dailys",
+  "template": "_NewOrg/00 - Templates/Template Daily",
+  "autorun": true
 }
