@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc744d2b15097f4",
+        "id": "e706536980314992",
         "type": "tabs",
         "children": [
           {
-            "id": "24a84538c0792e7e",
+            "id": "e609a31846462b62",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -191,9 +191,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24a84538c0792e7e",
+  "active": "e609a31846462b62",
   "lastOpenFiles": [
+    "To Do.md",
+    "README.md",
     "PARA Method.canvas",
+    "01 - Dailys/20250923.md",
+    "04 - Resources/Images/robin.jpg",
+    "Untitled.base",
+    "02 - Projects/Lounge do Açaí/Lounge do Açaí.md",
+    "00 - Templates/Template Daily.md",
+    "00 - Templates/Color Pallet.md",
     "03 - Areas/Trabalho/QueenPitch/QueenPitch.md",
     "03 - Areas/Trabalho/QueenPitch/Análise Comparativa Gemini 1.5 x 2.5.md",
     "03 - Areas/Trabalho/QueenPitch",
@@ -213,7 +221,6 @@
     "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
     "02 - Projects/6º Período/Ciência dos Dados.md",
     "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
-    "02 - Projects/Lounge do Açaí/Lounge do Açaí.md",
     "02 - Projects/6º Período/Arquitetura de Sistemas.md",
     "02 - Projects/6º Período/Computação Gráfica.md",
     "02 - Projects/6º Período/6º Período.md",
@@ -221,14 +228,8 @@
     "02 - Projects/PIBIC",
     "02 - Projects/QueenPitch",
     "02 - Projects/Obsidian Setup",
-    "02 - Projects/Maratona",
     "05 - Archive/Resourses/Others/Colinha - Bitset.md",
     "05 - Archive/Projects/5º Período/Redes de Computadores.md",
-    "05 - Archive/Projects/Maratona/Maratona.md",
-    "05 - Archive/Projects/5º Período/Projeto Integrador.md",
-    "05 - Archive/Projects/5º Período/Análise de Algoritmos.md",
-    "05 - Archive/Projects/5º Período/Programação Web e Mobile.md",
-    "05 - Archive/Projects/5º Período/Inteligência Artificial.md",
     "04 - Resources/Acadêmicos/Materials/Modelo de Criação PDAE - Base de Cálculo.png",
     "Unicap/Graduação/6º Período/PDAE/Modelos/Modelo de Criacao - Base de Cálculo.png",
     "Teste.canvas",
@@ -239,7 +240,6 @@
     "Pasted image 20250901202837.png",
     "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg",
     "Pasted image 20250901202258.png",
-    "Pasted image 20250812013214.png",
-    "Pasted image 20250530000837.png"
+    "Pasted image 20250812013214.png"
   ]
 }

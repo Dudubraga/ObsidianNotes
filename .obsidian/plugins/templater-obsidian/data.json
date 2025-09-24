@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_NewOrg/00 - Templates",
+  "templates_folder": "00 - Templates",
   "templates_pairs": [
     [
       "",
