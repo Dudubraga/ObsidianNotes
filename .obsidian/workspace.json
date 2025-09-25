@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "398d2a4b4895e599",
+        "id": "11bedb26ba033b36",
         "type": "tabs",
         "children": [
           {
-            "id": "2a8f05a299cff403",
+            "id": "3d9d1dc82cd296e7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "PARA Method.canvas",
-                "viewState": {
-                  "x": -481.5,
-                  "y": -342,
-                  "zoom": -0.5365405443350636
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "PARA Method"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -197,12 +190,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2a8f05a299cff403",
+  "active": "3d9d1dc82cd296e7",
   "lastOpenFiles": [
+    "01 - Dailys/20250925.md",
+    "02 - Projects/PIBIC/Sugestões Apresentação Henrique - ENIAC.md",
+    "02 - Projects/Obsidian Setup/Obsidian.md",
+    "PARA Method.canvas",
     "03 - Areas/Financeira/Gastos.md",
     "To Do.md",
-    "01 - Dailys/20250925.md",
-    "PARA Method.canvas",
     "01 - Dailys/20250924.md",
     "02 - Projects/PIBIC/Learning From Data.md",
     "04 - Resources/Acadêmicos/Books/Learning from data a short course.pdf",
@@ -234,7 +229,6 @@
     "02 - Projects/React Testing Library and Jest/React Testing Library and Jest.md",
     "02 - Projects/PIBIC/PIBIC.md",
     "02 - Projects/QueenPitch/Casos de Teste e2e.md",
-    "02 - Projects/Obsidian Setup/Obsidian.md",
     "02 - Projects/Maratona/Texto de encerramento.md",
     "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
     "02 - Projects/6º Período/Ciência dos Dados.md",

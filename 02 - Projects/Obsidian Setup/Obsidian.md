@@ -5,13 +5,25 @@
 ---
 ## Configs
 #### Sync with Github
-
+- [Repositório](https://github.com/Dudubraga/ObsidianNotes)
 #### Themes
-- 
-#### Plugins
-- 
+- Things
+- Dracula
+#### Community Plugins
+- Advanced Tables
+- Calendar
+- Dataview
+- Excalidraw
+- File Color
+	- [[Color Pallet]]
+- Homepage
+- Iconize
+- Kanban
+- Solve
+- Templater
+- Zotero Integration
 #### Templates
+- [[Template Daily]]
 - 
-
 #### Markdown
 - [[Cheat Sheet Markdown]]
