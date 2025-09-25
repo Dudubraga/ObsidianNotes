@@ -24,9 +24,6 @@ kanban-plugin: board
 
 ## To Do
 
-- [ ] **UNICAP** - Revisar [[Computação Gráfica]]
-- [ ] **UNICAP** - Projeto [[Ciência dos Dados]]
-- [ ] **Queen** - [[Atualizações no Onboarding]]
 - [ ] **PIBIC** - Leitura [[A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf]]
 - [ ] **PIBIC** - Leitura [[Prediction of Motor Failure Time Using An Artificial.pdf]]
 - [ ] **PIBIC** - Aprofundar na Matemática [[Isolation Forest]]
@@ -36,7 +33,6 @@ kanban-plugin: board
 ## Doing
 
 - [ ] **Setup** [[Obsidian]]
-- [ ] **UNICAP** - Revisar [[Arquitetura de Sistemas]]
 - [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]]
 - [ ] **PIBIC** - Leitura [[Challenges and Opportunities of Deep Learning.pdf]]
 - [ ] **Queen** - Cypress e2e
@@ -47,8 +43,12 @@ kanban-plugin: board
 ## Done
 
 - [ ] **UNICAP** - Sprint 1 [[Projeto de Desenvolvimento Ágil e Eficaz]]
-- [x] **UNICAP** - Sprint 2 [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [ ] **UNICAP** - Sprint 2 [[Projeto de Desenvolvimento Ágil e Eficaz]]
 - [ ] **UNICAP** - Revisar [[Paradigmas de Linguagens de Programação]]
+- [ ] **UNICAP** - Revisar [[Arquitetura de Sistemas]]
+- [ ] **UNICAP** - Revisar [[Computação Gráfica]]
+- [ ] **UNICAP** - Projeto [[Ciência dos Dados]]
+- [ ] **Queen** - [[Atualizações no Onboarding]]
 
 
 

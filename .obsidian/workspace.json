@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c4596105f8bb9dbe",
+        "id": "73f986e980ade705",
         "type": "tabs",
         "children": [
           {
-            "id": "c97460c8d06ae64b",
+            "id": "7c465cee28e26e22",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "PARA Method.canvas",
+                "viewState": {
+                  "x": -481.5,
+                  "y": -281.8546582085865,
+                  "zoom": -0.5981589864397331
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "PARA Method"
             }
           }
         ]
@@ -36,7 +43,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -191,20 +198,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c97460c8d06ae64b",
+  "active": "7c465cee28e26e22",
   "lastOpenFiles": [
-    "03 - Areas/Desenhos/Tentativa de braço.md",
     "01 - Dailys/20250925.md",
-    "03 - Areas/Desenhos",
+    "01 - Dailys/20250923.md",
     "01 - Dailys/20250924.md",
+    "05 - Archive/Projects/QueenPitch/Atualizações no Onboarding.md",
+    "To Do.md",
+    "04 - Resources/Images/robin.jpg",
+    "05 - Archive/Projects/QueenPitch",
+    "05 - Archive/Resourses/Images/Queen Bugs/bug queen 1.png",
+    "05 - Archive/Resourses/Images/Queen Bugs/bug queen 2.png",
+    "05 - Archive/Resourses/Images/Queen Bugs",
+    "03 - Areas/Desenhos/Tentativa de braço.md",
+    "03 - Areas/Desenhos",
     "04 - Resources/Acadêmicos/Materials/Resumo Arquitetura de Sistemas - 1GQ (Bela).pdf",
     "02 - Projects/6º Período/Arquitetura de Sistemas.md",
     "01 - Dailys/Atualizações do Onboarding.md",
-    "01 - Dailys/20250923.md",
-    "To Do.md",
     "README.md",
     "PARA Method.canvas",
-    "04 - Resources/Images/robin.jpg",
     "Untitled.base",
     "02 - Projects/Lounge do Açaí/Lounge do Açaí.md",
     "00 - Templates/Template Daily.md",
@@ -222,14 +234,11 @@
     "02 - Projects/PIBIC/PIBIC.md",
     "02 - Projects/PIBIC/Isolation Forest",
     "02 - Projects/QueenPitch/Casos de Teste e2e.md",
-    "02 - Projects/QueenPitch/Atualizações no Onboarding.md",
     "02 - Projects/Obsidian Setup/Obsidian.md",
     "02 - Projects/Maratona/Texto de encerramento.md",
     "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
     "02 - Projects/6º Período/Ciência dos Dados.md",
     "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
-    "02 - Projects/React Testing Library and Jest",
-    "02 - Projects/PIBIC",
     "04 - Resources/Acadêmicos/Materials/Modelo de Criação PDAE - Base de Cálculo.png",
     "Unicap/Graduação/6º Período/PDAE/Modelos/Modelo de Criacao - Base de Cálculo.png",
     "Teste.canvas",
@@ -238,8 +247,6 @@
     "Unicap/Graduação/6º Período/PDAE/Images/Modelo de Curva de ROI - Business Case.jpg",
     "Unicap/Graduação/6º Período/PDAE/Images/Lojinha IA - Business Case.jpg",
     "Pasted image 20250901202837.png",
-    "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg",
-    "Pasted image 20250901202258.png",
-    "Pasted image 20250812013214.png"
+    "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg"
   ]
 }
