@@ -8,5 +8,8 @@
   "obsidian-icon-folder",
   "templater-obsidian",
   "homepage",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "obsidian-excel-to-markdown-table",
+  "meld-calc",
+  "solve"
 ]

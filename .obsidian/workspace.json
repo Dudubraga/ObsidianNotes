@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73f986e980ade705",
+        "id": "398d2a4b4895e599",
         "type": "tabs",
         "children": [
           {
-            "id": "7c465cee28e26e22",
+            "id": "2a8f05a299cff403",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -16,8 +16,8 @@
                 "file": "PARA Method.canvas",
                 "viewState": {
                   "x": -481.5,
-                  "y": -281.8546582085865,
-                  "zoom": -0.5981589864397331
+                  "y": -342,
+                  "zoom": -0.5365405443350636
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -92,36 +92,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00d8a685a3fe1772",
+            "id": "0575b8de8949885e",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Unicap/Unicap.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos para Unicap"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "11f6a6a2433ac6b0",
+            "id": "8c310b27a51ff673",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "file": "Unicap/Unicap.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "04 - Resources/Acadêmicos/Books/Learning from data a short course.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "links-going-out",
-              "title": "Links de saída para Unicap"
+              "icon": "lucide-list",
+              "title": "Outline of Learning from data a short course"
+            }
+          },
+          {
+            "id": "b11f170f80aa2cd2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -140,46 +142,43 @@
             }
           },
           {
-            "id": "8c310b27a51ff673",
+            "id": "7fd6ed1b6a6d56ec",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Unicap/Unicap.md",
-                "followCursor": false,
+                "file": "PARA Method.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Sumário de Unicap"
+              "icon": "links-coming-in",
+              "title": "Backlinks for PARA Method"
             }
           },
           {
-            "id": "4a1c26ae92747d2b",
+            "id": "efd22091ae031e72",
             "type": "leaf",
             "state": {
-              "type": "footnotes",
-              "state": {},
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "0575b8de8949885e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "type": "outgoing-link",
+              "state": {
+                "file": "PARA Method.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PARA Method"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 280.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,13 +197,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c465cee28e26e22",
+  "active": "2a8f05a299cff403",
   "lastOpenFiles": [
-    "01 - Dailys/20250925.md",
-    "01 - Dailys/20250923.md",
-    "01 - Dailys/20250924.md",
-    "05 - Archive/Projects/QueenPitch/Atualizações no Onboarding.md",
+    "03 - Areas/Financeira/Gastos.md",
     "To Do.md",
+    "01 - Dailys/20250925.md",
+    "PARA Method.canvas",
+    "01 - Dailys/20250924.md",
+    "02 - Projects/PIBIC/Learning From Data.md",
+    "04 - Resources/Acadêmicos/Books/Learning from data a short course.pdf",
+    "04 - Resources/Acadêmicos/Books/Competitive Programming 4 - Book 1.pdf",
+    "04 - Resources/Acadêmicos/Annotations",
+    "04 - Resources/Acadêmicos/Annotations",
+    "04 - Resources/Acadêmicos/Articles/Challenges and Opportunities of Deep Learning.pdf",
+    "01 - Dailys/Semana 20250922-28",
+    "01 - Dailys/20250923.md",
+    "05 - Archive/Projects/QueenPitch/Atualizações no Onboarding.md",
     "04 - Resources/Images/robin.jpg",
     "05 - Archive/Projects/QueenPitch",
     "05 - Archive/Resourses/Images/Queen Bugs/bug queen 1.png",
@@ -216,29 +224,20 @@
     "02 - Projects/6º Período/Arquitetura de Sistemas.md",
     "01 - Dailys/Atualizações do Onboarding.md",
     "README.md",
-    "PARA Method.canvas",
-    "Untitled.base",
     "02 - Projects/Lounge do Açaí/Lounge do Açaí.md",
     "00 - Templates/Template Daily.md",
     "00 - Templates/Color Pallet.md",
     "03 - Areas/Trabalho/QueenPitch/QueenPitch.md",
     "03 - Areas/Trabalho/QueenPitch/Análise Comparativa Gemini 1.5 x 2.5.md",
-    "03 - Areas/Trabalho/QueenPitch",
-    "03 - Areas/Trabalho",
     "03 - Areas/Acadêmica/UNICAP/Unicap.md",
-    "03 - Areas/Acadêmica/UNICAP",
     "02 - Projects/PIBIC/Isolation Forest/Isolation Forest.md",
-    "02 - Projects/PIBIC/Isolation Forest/Isolation Forest - Roteiro.pdf",
     "02 - Projects/React Testing Library and Jest/React Testing Library and Jest.md",
-    "02 - Projects/PIBIC/Learning From Data.md",
     "02 - Projects/PIBIC/PIBIC.md",
-    "02 - Projects/PIBIC/Isolation Forest",
     "02 - Projects/QueenPitch/Casos de Teste e2e.md",
     "02 - Projects/Obsidian Setup/Obsidian.md",
     "02 - Projects/Maratona/Texto de encerramento.md",
     "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
     "02 - Projects/6º Período/Ciência dos Dados.md",
-    "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
     "04 - Resources/Acadêmicos/Materials/Modelo de Criação PDAE - Base de Cálculo.png",
     "Unicap/Graduação/6º Período/PDAE/Modelos/Modelo de Criacao - Base de Cálculo.png",
     "Teste.canvas",
