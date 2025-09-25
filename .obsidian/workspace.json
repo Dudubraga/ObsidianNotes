@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e706536980314992",
+        "id": "c4596105f8bb9dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "e609a31846462b62",
+            "id": "c97460c8d06ae64b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 206.5110321044922
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -191,12 +191,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e609a31846462b62",
+  "active": "c97460c8d06ae64b",
   "lastOpenFiles": [
+    "03 - Areas/Desenhos/Tentativa de braço.md",
+    "01 - Dailys/20250925.md",
+    "03 - Areas/Desenhos",
+    "01 - Dailys/20250924.md",
+    "04 - Resources/Acadêmicos/Materials/Resumo Arquitetura de Sistemas - 1GQ (Bela).pdf",
+    "02 - Projects/6º Período/Arquitetura de Sistemas.md",
+    "01 - Dailys/Atualizações do Onboarding.md",
+    "01 - Dailys/20250923.md",
     "To Do.md",
     "README.md",
     "PARA Method.canvas",
-    "01 - Dailys/20250923.md",
     "04 - Resources/Images/robin.jpg",
     "Untitled.base",
     "02 - Projects/Lounge do Açaí/Lounge do Açaí.md",
@@ -221,15 +228,8 @@
     "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
     "02 - Projects/6º Período/Ciência dos Dados.md",
     "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
-    "02 - Projects/6º Período/Arquitetura de Sistemas.md",
-    "02 - Projects/6º Período/Computação Gráfica.md",
-    "02 - Projects/6º Período/6º Período.md",
     "02 - Projects/React Testing Library and Jest",
     "02 - Projects/PIBIC",
-    "02 - Projects/QueenPitch",
-    "02 - Projects/Obsidian Setup",
-    "05 - Archive/Resourses/Others/Colinha - Bitset.md",
-    "05 - Archive/Projects/5º Período/Redes de Computadores.md",
     "04 - Resources/Acadêmicos/Materials/Modelo de Criação PDAE - Base de Cálculo.png",
     "Unicap/Graduação/6º Período/PDAE/Modelos/Modelo de Criacao - Base de Cálculo.png",
     "Teste.canvas",
