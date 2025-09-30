@@ -1,0 +1,44 @@
+### Construções pra fazer:
+- [Ice Wizard Tower](https://www.youtube.com/watch?v=deuL0tHTUWs)
+	- 584 packed ice
+	- 225 blue ice
+	- 116 ice
+	- 387 snow blocks
+	- 121 stone
+	- 58 stone stairs
+	- 13 stone buttons
+	- 240 stone bricks
+	- 24 stone brick walls
+	- 16 stone brick walls
+	- 4 chiseled stone bricks
+	- 108 smooth quartz stairs
+	- 100 smooth quartz slabs
+	- 15 chiseled quartz blocks
+	- 12 quartz pillars
+	- 90 diorite walls
+	- 129 end rods
+	- 85 light blue stained glass panes
+	- 20 white stained glass
+	- 17 white stained glass panes
+	- 36 iron trapdoors 
+	- 4 warped doors
+- [Torre Medieval](https://youtu.be/BVXN48URQLM?si=QIa-sDj6keedhyPd)
+	- Essa pode ser a principal e tem vários teleports para onde preciso ir
+- [Ice Igloo](https://youtu.be/zau_30sUVt4?si=owecKW1KZ6LtbFsZ&t=92)
+- [Ice Machine](https://youtu.be/zau_30sUVt4?si=baSFsBiPLunZ1FCG&t=342)
+- [Pinheiro de Natal](https://youtu.be/zau_30sUVt4?si=e_ymusJUa1-fdNdO&t=503)
+- [Playlist Viking 1](https://youtube.com/playlist?list=PLJJt_War4Bi867PLeIYfcg0Zc0JzX92Mg&si=**pLBs_sPFOL8UtlnJ**)
+- [Playlist Viking 2](https://youtube.com/playlist?list=PLhJZ67FLAv2Wh9L3MvocaWYwPwTfZolmv&si=p3BJqZwU_Kioco2x)
+- [Fonte Congelada](https://br.pinterest.com/pin/8655424280044350/)
+- [Ice villager statue](https://br.pinterest.com/pin/38702878042506066/)
+
+### Vila Nórdica:
+- [[Blueprint Vila Nordica 1.png]]
+- [[Blueprint Vila Nordica 2.png]]
+- [[Blueprint Vila Nordica 3.png]]
+- [[Blueprint Vila Nordica 4.png]]
+- [[Blueprint Vila Nordica 5.png]]
+- [[Blueprint Vila Nordica 6.png]]
+- [[Blueprint Vila Nordica 7.png]]
+- [[Blueprint Vila Nordica 8.png]]
+

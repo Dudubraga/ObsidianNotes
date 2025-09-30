@@ -4,17 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "11bedb26ba033b36",
+        "id": "af1282f862a932d5",
         "type": "tabs",
         "children": [
           {
-            "id": "3d9d1dc82cd296e7",
+            "id": "000ac9ede20fe653",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "To Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To Do"
             }
           }
         ]
@@ -74,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5110321044922
+    "width": 240.5110321044922
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -190,14 +201,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d9d1dc82cd296e7",
+  "active": "000ac9ede20fe653",
   "lastOpenFiles": [
+    "03 - Areas/Jogos/Minecraft/ATM10.md",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 1.png",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 2.png",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 3.png",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 4.png",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 5.png",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 6.png",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 7.png",
+    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 8.png",
+    "04 - Resources/Images/Minecraft/ATM10",
+    "04 - Resources/Images/Minecraft",
+    "01 - Dailys/20250929.md",
+    "04 - Resources/Acadêmicos/Articles/A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf",
+    "01 - Dailys/20250928.md",
+    "01 - Dailys/20250926.md",
+    "01 - Dailys/20250927.md",
+    "To Do.md",
+    "03 - Areas/Jogos/Minecraft",
+    "Pasted image 20250927213232.png",
+    "01 - Dailys/Untitled.md",
     "01 - Dailys/20250925.md",
-    "02 - Projects/PIBIC/Sugestões Apresentação Henrique - ENIAC.md",
+    "05 - Archive/Projects/PIBIC/Sugestões Apresentação Henrique - ENIAC.md",
+    "05 - Archive/Projects/PIBIC",
+    "03 - Areas/Cinema/Cinema.md",
     "02 - Projects/Obsidian Setup/Obsidian.md",
     "PARA Method.canvas",
     "03 - Areas/Financeira/Gastos.md",
-    "To Do.md",
     "01 - Dailys/20250924.md",
     "02 - Projects/PIBIC/Learning From Data.md",
     "04 - Resources/Acadêmicos/Books/Learning from data a short course.pdf",
@@ -205,17 +237,10 @@
     "04 - Resources/Acadêmicos/Annotations",
     "04 - Resources/Acadêmicos/Annotations",
     "04 - Resources/Acadêmicos/Articles/Challenges and Opportunities of Deep Learning.pdf",
-    "01 - Dailys/Semana 20250922-28",
     "01 - Dailys/20250923.md",
     "05 - Archive/Projects/QueenPitch/Atualizações no Onboarding.md",
     "04 - Resources/Images/robin.jpg",
-    "05 - Archive/Projects/QueenPitch",
-    "05 - Archive/Resourses/Images/Queen Bugs/bug queen 1.png",
-    "05 - Archive/Resourses/Images/Queen Bugs/bug queen 2.png",
-    "05 - Archive/Resourses/Images/Queen Bugs",
     "03 - Areas/Desenhos/Tentativa de braço.md",
-    "03 - Areas/Desenhos",
-    "04 - Resources/Acadêmicos/Materials/Resumo Arquitetura de Sistemas - 1GQ (Bela).pdf",
     "02 - Projects/6º Período/Arquitetura de Sistemas.md",
     "01 - Dailys/Atualizações do Onboarding.md",
     "README.md",
@@ -224,22 +249,7 @@
     "00 - Templates/Color Pallet.md",
     "03 - Areas/Trabalho/QueenPitch/QueenPitch.md",
     "03 - Areas/Trabalho/QueenPitch/Análise Comparativa Gemini 1.5 x 2.5.md",
-    "03 - Areas/Acadêmica/UNICAP/Unicap.md",
-    "02 - Projects/PIBIC/Isolation Forest/Isolation Forest.md",
-    "02 - Projects/React Testing Library and Jest/React Testing Library and Jest.md",
-    "02 - Projects/PIBIC/PIBIC.md",
-    "02 - Projects/QueenPitch/Casos de Teste e2e.md",
-    "02 - Projects/Maratona/Texto de encerramento.md",
-    "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
-    "02 - Projects/6º Período/Ciência dos Dados.md",
-    "04 - Resources/Acadêmicos/Materials/Modelo de Criação PDAE - Base de Cálculo.png",
-    "Unicap/Graduação/6º Período/PDAE/Modelos/Modelo de Criacao - Base de Cálculo.png",
     "Teste.canvas",
-    "04 - Resources/Acadêmicos/Materials/Untitled.canvas",
-    "_NewOrg/Pasted image 20250923002206.png",
-    "Unicap/Graduação/6º Período/PDAE/Images/Modelo de Curva de ROI - Business Case.jpg",
-    "Unicap/Graduação/6º Período/PDAE/Images/Lojinha IA - Business Case.jpg",
-    "Pasted image 20250901202837.png",
-    "Unicap/Graduação/6º Período/Images/Modelo de Ficha - Business Case.jpg"
+    "04 - Resources/Acadêmicos/Materials/Untitled.canvas"
   ]
 }
