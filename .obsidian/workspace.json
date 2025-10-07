@@ -8,24 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "000ac9ede20fe653",
+            "id": "08a5ad95810c8bab",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "04 - Resources/Others/Cheat Sheet Markdown.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "To Do"
+              "icon": "lucide-file",
+              "title": "Cheat Sheet Markdown"
             }
           }
         ]
@@ -182,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +194,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "000ac9ede20fe653",
+  "active": "08a5ad95810c8bab",
   "lastOpenFiles": [
+    "01 - Dailys/20251007.md",
+    "02 - Projects/QueenPitch/Equipes.md",
+    "04 - Resources/Others/Cheat Sheet Markdown.md",
+    "To Do.md",
+    "04 - Resources/Images/Queen/Bug - Usuário Pendente.mp4",
+    "02 - Projects/6º Período/Projeto de Desenvolvimento Ágil e Eficaz.md",
+    "04 - Resources/Acadêmicos/Materials/Projeto PDAE - Business Case & Blueprint.pdf",
+    "01 - Dailys/20251006.md",
     "03 - Areas/Jogos/Minecraft/ATM10.md",
+    "01 - Dailys/20251003.md",
+    "05 - Archive/Logs",
+    "01 - Dailys/20251001.md",
+    "01 - Dailys/20251002.md",
+    "05 - Archive/Logs/2025-09/20250923.md",
+    "05 - Archive/Logs/2025-09",
+    "04 - Resources/Images/Queen/vazando senha projeto.png",
+    "04 - Resources/Images/Queen",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 1.png",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 2.png",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 3.png",
@@ -214,41 +223,26 @@
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 8.png",
     "04 - Resources/Images/Minecraft/ATM10",
     "04 - Resources/Images/Minecraft",
-    "01 - Dailys/20250929.md",
+    "05 - Archive/Logs/2025-09/20250929.md",
     "04 - Resources/Acadêmicos/Articles/A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf",
-    "01 - Dailys/20250928.md",
-    "01 - Dailys/20250926.md",
-    "01 - Dailys/20250927.md",
-    "To Do.md",
+    "05 - Archive/Logs/2025-09/20250928.md",
+    "05 - Archive/Logs/2025-09/20250926.md",
+    "05 - Archive/Logs/2025-09/20250927.md",
     "03 - Areas/Jogos/Minecraft",
     "Pasted image 20250927213232.png",
     "01 - Dailys/Untitled.md",
-    "01 - Dailys/20250925.md",
+    "05 - Archive/Logs/2025-09/20250925.md",
     "05 - Archive/Projects/PIBIC/Sugestões Apresentação Henrique - ENIAC.md",
     "05 - Archive/Projects/PIBIC",
     "03 - Areas/Cinema/Cinema.md",
     "02 - Projects/Obsidian Setup/Obsidian.md",
     "PARA Method.canvas",
     "03 - Areas/Financeira/Gastos.md",
-    "01 - Dailys/20250924.md",
+    "05 - Archive/Logs/2025-09/20250924.md",
     "02 - Projects/PIBIC/Learning From Data.md",
-    "04 - Resources/Acadêmicos/Books/Learning from data a short course.pdf",
-    "04 - Resources/Acadêmicos/Books/Competitive Programming 4 - Book 1.pdf",
-    "04 - Resources/Acadêmicos/Annotations",
-    "04 - Resources/Acadêmicos/Annotations",
-    "04 - Resources/Acadêmicos/Articles/Challenges and Opportunities of Deep Learning.pdf",
-    "01 - Dailys/20250923.md",
     "05 - Archive/Projects/QueenPitch/Atualizações no Onboarding.md",
-    "04 - Resources/Images/robin.jpg",
     "03 - Areas/Desenhos/Tentativa de braço.md",
     "02 - Projects/6º Período/Arquitetura de Sistemas.md",
-    "01 - Dailys/Atualizações do Onboarding.md",
-    "README.md",
-    "02 - Projects/Lounge do Açaí/Lounge do Açaí.md",
-    "00 - Templates/Template Daily.md",
-    "00 - Templates/Color Pallet.md",
-    "03 - Areas/Trabalho/QueenPitch/QueenPitch.md",
-    "03 - Areas/Trabalho/QueenPitch/Análise Comparativa Gemini 1.5 x 2.5.md",
     "Teste.canvas",
     "04 - Resources/Acadêmicos/Materials/Untitled.canvas"
   ]

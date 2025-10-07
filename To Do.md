@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] **Maratona** - [[Papelada]]
 - [ ] **UNICAP** - Sprint 4 (Desenvolvimento 1): [[Projeto de Desenvolvimento Ágil e Eficaz]]
 - [ ] **UNICAP** - Sprint 5 (Desenvolvimento 2): [[Projeto de Desenvolvimento Ágil e Eficaz]]
 - [ ] **UNICAP** - Sprint 6 (Desenvolvimento 3): [[Projeto de Desenvolvimento Ágil e Eficaz]]
@@ -23,21 +22,22 @@ kanban-plugin: board
 
 ## To Do
 
-- [ ] **Queen** - Desenvolvimento Frontend
 - [ ] **PIBIC** - Leitura [[Prediction of Motor Failure Time Using An Artificial.pdf]]
 - [ ] **PIBIC** - Leitura [[A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf]]
 - [ ] **PIBIC** - Aprofundar na Matemática [[Isolation Forest]]
-- [ ] **UNICAP** - Sprint 3 (Design): [[Projeto de Desenvolvimento Ágil e Eficaz]]
 - [ ] **PIBIC** - Ficha de Frequência Mensal
 
 
 ## Doing
 
-- [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]]
+- [ ] **Queen** - Desenvolvimento Frontend
 - [ ] **PIBIC** - Leitura [[Challenges and Opportunities of Deep Learning.pdf]]
-- [ ] **Queen** - Cypress e2e
+- [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]]
 - [ ] **Queen** - [[Casos de Teste e2e]]
+- [ ] **UNICAP** - Sprint 3 (Design): [[Projeto de Desenvolvimento Ágil e Eficaz]]
+- [ ] **Queen** - Cypress e2e
 - [ ] **Maratona** - [[Texto de encerramento]]
+- [ ] **Maratona** - [[Papelada]]
 
 
 ## Done
