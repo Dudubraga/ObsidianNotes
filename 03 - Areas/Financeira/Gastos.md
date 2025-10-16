@@ -1,14 +1,17 @@
+---
+tags:
+---
 
 | **Nome**              | **Valor Mensal** R$ |
 | --------------------- | ------------------: |
 | 1Password             |   `R$ 16,05` \|[^1] |
 | Youtube Premium       |           `R$ 8,99` |
-| Estacionamento UNICAP |          `R$ 40,00` |
-| Obsidian Sync         |   `R$ 21,47` \|[^2] |
+| Estacionamento UNICAP |          `R$ 80,00` |
+| Obsidian Sync *!*     |   `R$ 21,47` \|[^2] |
 |                       |                     |
 
 **Total:**
-40 + 16.05 + 8.99 + 21.47 = 
+80 + 16.05 + 8.99 + 21.47 = 
 
 
 

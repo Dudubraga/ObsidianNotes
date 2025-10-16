@@ -1,3 +1,10 @@
+---
+tags:
+  - unicap
+  - graduação
+  - 5-periodo
+  - projeto-extensão
+---
 
 #### Sobre o Projeto
 Este projeto é um sistema de autoatendimento desenvolvido para otimizar o atendimento no quiosque do **Lounge do Açaí** na Universidade Católica de Pernambuco.

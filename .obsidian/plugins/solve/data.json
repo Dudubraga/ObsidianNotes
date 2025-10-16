@@ -10,7 +10,7 @@
     "animationDuration": "200ms"
   },
   "inlineSolve": {
-    "includeExpressionOnCommit": false,
+    "includeExpressionOnCommit": true,
     "includeBackticksOnCommit": true,
     "includeEqualsOnCommit": true
   },

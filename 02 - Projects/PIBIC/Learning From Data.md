@@ -1,3 +1,9 @@
+---
+tags:
+  - unicap
+  - pibic
+---
+
 Notas sobre o livro [[Learning from data a short course.pdf]]
 
 ## Chapter 1 - The Learning Problem

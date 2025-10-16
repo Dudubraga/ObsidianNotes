@@ -1,3 +1,8 @@
+---
+tags:
+  - queenpitch
+---
+
 ### Links
 Front - [frontend](https://github.com/douglasrangel-stack/queenpitch-frontend)
 Back - [backend](https://github.com/douglasrangel-stack/queenpitch-backend/tree/main)
@@ -7,6 +12,6 @@ Kanban - [Jira](https://gclindenberg.atlassian.net/jira/software/c/projects/QP/b
 - [[Casos de Teste e2e]]
 - [[Análise Comparativa Gemini 1.5 x 2.5]]
 - [[Atualizações no Onboarding]]
-- 
+- [[Testes API Postman]]
 ### Frontend
 - 

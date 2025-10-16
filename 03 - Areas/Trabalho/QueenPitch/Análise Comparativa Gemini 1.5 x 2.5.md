@@ -1,3 +1,8 @@
+---
+tags:
+  - queenpitch
+---
+
 Análise de modelos do Gemini para a [[QueenPitch]]
 
 | **Posicionamento**     | **Gemini 1.5**                    | **Gemini 2.5**                  |

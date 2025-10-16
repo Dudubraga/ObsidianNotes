@@ -1,3 +1,8 @@
+---
+tags:
+  - unicap
+  - pibic
+---
 
 Artigos:
 - [[A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf]]

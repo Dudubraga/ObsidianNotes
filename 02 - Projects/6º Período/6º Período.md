@@ -1,3 +1,10 @@
+---
+tags:
+  - unicap
+  - graduação
+  - 6-periodo
+---
+
 6º Período da Graduação
 
 <span style="color:red;">ruim</span>

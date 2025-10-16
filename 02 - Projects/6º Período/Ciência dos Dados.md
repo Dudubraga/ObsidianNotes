@@ -1,3 +1,10 @@
+---
+tags:
+  - unicap
+  - graduação
+  - 6-periodo
+---
+
 **Professor:** Diego Pinheiro
 **Período:** Ago 2025 - Dez 2025
 **Nota final:** TBA

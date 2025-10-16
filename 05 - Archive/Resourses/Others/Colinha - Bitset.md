@@ -1,3 +1,9 @@
+---
+tags:
+  - unicap
+  - maratona
+---
+
 #### Operadores sobre Bits
 ###### Operador AND
 | Variável  | Val | Representação em Bits |

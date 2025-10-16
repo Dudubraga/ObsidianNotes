@@ -1,3 +1,7 @@
+---
+tags:
+  - obsidian
+---
 
 ### Basics:
 # H1

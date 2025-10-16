@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": false,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "dailylog": 1,
+    "unicap": 2,
+    "graduação": 3,
+    "6-periodo": 4,
+    "projeto-extensão": 5,
+    "5-periodo": 6,
+    "maratona": 7,
+    "pibic": 8,
+    "queenpitch": 9,
+    "curso": 10,
+    "excalidraw": 11,
+    "obsidian": 12
+  },
+  "_version": 3
+}

@@ -1,7 +1,7 @@
 {
   "collapse-filter": true,
-  "search": "",
-  "showTags": true,
+  "search": "-path:\"01 - Dailys\"  ",
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -69,25 +69,18 @@
         "a": 1,
         "rgb": 16467532
       }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1.22370913752582,
-  "lineSizeMultiplier": 1.40238586995228,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.33518711018711,
+  "lineSizeMultiplier": 1.25369022869023,
   "collapse-forces": true,
-  "centerStrength": 0.680578306388434,
-  "repelStrength": 14.4320205113596,
-  "linkStrength": 0.439000071219999,
-  "linkDistance": 191,
-  "scale": 0.4546080041399808,
+  "centerStrength": 0.243762993762994,
+  "repelStrength": 6.95426195426195,
+  "linkStrength": 0.572245322245322,
+  "linkDistance": 139,
+  "scale": 0.4232772719168129,
   "close": true
 }

@@ -1,3 +1,9 @@
+---
+tags:
+  - unicap
+  - maratona
+---
+
 [[Maratona]]
 **Título:** Encerrando minha jornada na Programação Competitiva pela UNICAP.
 
