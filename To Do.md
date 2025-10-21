@@ -32,7 +32,6 @@ kanban-plugin: board
 
 - [ ] **Queen** - [[Testes API Postman]]
 - [ ] **Queen** - Cypress e2e
-- [ ] **Queen** - Desenvolvimento Frontend [[Equipes]]
 - [ ] **UNICAP** - [[Padronização do github]]
 - [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]]
 - [ ] **UNICAP** - Sprint 4 (Desenvolvimento 1): [[Projeto de Desenvolvimento Ágil e Eficaz]]
@@ -44,6 +43,7 @@ kanban-plugin: board
 - [ ] **PIBIC** - Leitura [[Challenges and Opportunities of Deep Learning.pdf]]
 - [ ] **Queen** - [[Casos de Teste e2e]]
 - [ ] **Maratona** - [[Texto de encerramento]]
+- [ ] **Queen** - Desenvolvimento Frontend [[Equipes]]
 
 
 ## Done
