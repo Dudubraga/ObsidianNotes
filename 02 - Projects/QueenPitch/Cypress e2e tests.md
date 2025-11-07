@@ -6,7 +6,7 @@ tags:
 ### Conta
 
 ##### Funcionalidade: Cadastro de Usuário
-- **CT-001: Cadastro de um novo Usuário**
+- **CT-001: Cadastro de um novo usuário**
 	- **Pré-condição:** 
 		- O usuário não deve estar logado e deve possuir um e-mail ainda não cadastrado.
 	- **Passos para execução:**
@@ -19,7 +19,7 @@ tags:
 	- **Resultado esperado:**
 		- O sistema deve exibir a mensagem de sucesso.
 		- O usuário deve ser redirecionado para a tela de login.
-- **CT-002: Tentativa de cadastro de um Usuário já existente**
+- **CT-002: Tentativa de cadastro de um usuário já existente**
 	- **Pré-condição:** 
 		- Deve existir um usuário na base de dados com um e-mail específico.
 	- **Passos para execução:**
@@ -32,6 +32,8 @@ tags:
 	- **Resultado esperado:**
 		- O sistema não deve criar a conta e deve exibir uma mensagem de erro.
 		- O usuário deve ser redirecionado para a tela inicial de cadastro.
+- **CT-031: Cadastro de um novo usuário por convite**
+	- 
 ##### Funcionalidade: Login de Usuário
 - **CT-003: Login do Usuário**
 	- **Pré-condição:** 
@@ -312,3 +314,121 @@ tags:
         3. Clicar em "Compartilhar".
     - **Resultado esperado:**
         - A página de compartilhamento deve abrir com o nome do projeto e conteúdo.
+##### Funcionalidade: Apresentação da Solução
+- **CT-023: Verificar bloqueio**
+	- **Pré-condição:**
+		- O usuário deve estar logado.
+	- **Passos para execução:**
+		- ...
+	- **Resultado esperado:**
+		- O usuário não deve ser capaz de acessar a página.
+##### Funcionalidade: Marketing Estratégico
+- **CT-024: Verificar bloqueio**
+	- **Pré-condição:**
+		- O usuário deve estar logado.
+	- **Passos para execução:**
+		- ...
+	- **Resultado esperado:**
+		- O usuário não deve ser capaz de acessar a página.
+##### Funcionalidade: Marketing de Performance
+- **CT-025: Verificar bloqueio**
+	- **Pré-condição:**
+		- O usuário deve estar logado.
+	- **Passos para execução:**
+		- ...
+	- **Resultado esperado:**
+		- O usuário não deve ser capaz de acessar a página.
+---
+# Casos de Teste
+
+### Usuário:
+
+- **CT-001: Cadastrar um novo usuário** 
+- **CT-002: Cadastrar um usuário já existente**
+- **CT-003: Cadastrar um novo usuário por convite** 
+- **CT-004: Login do usuário** 
+- **CT-005: Login do usuário inexistente** 
+- **CT-006: Editar dados do usuário** 
+- **CT-007: Deletar usuário**
+### Projeto:
+
+- **CT-008: Criar um Projeto** 
+- **CT-009: Editar um Projeto** 
+- **CT-010: Excluir um Projeto** 
+- **CT-011: Selecionar um Projeto no dashboard (alterar dashboard mostrado)**
+### Jornadas:
+
+- **Posicionamento da Marca**
+    - **CT-012: Criar um Posicionamento** 
+    - **CT-013: Gerar novo Posicionamento** 
+    - **CT-014: Editar um Posicionamento** 
+    - **CT-015: Compartilhar um Posicionamento** 
+- **Pitch de Vendas**
+    - **CT-016: Criar um Pitch** 
+    - **CT-017: Gerar novo Pitch** 
+    - **CT-018: Editar um Pitch** 
+    - **CT-019: Compartilhar um Pitch** 
+- **Persona**
+    - **CT-020: Criar um Persona** 
+    - **CT-021: Gerar novo Persona** 
+    - **CT-022: Editar um Persona** 
+    - **CT-023: Compartilhar um Persona** 
+- **Planejamento de Conteúdo**
+    - **CT-024: Criar um Planejamento** 
+    - **CT-025: Gerar novo Planejamento** 
+    - **CT-026: Editar um Planejamento** 
+    - **CT-027: Compartilhar um Planejamento** 
+- **Landing Page da Solução**
+    - **CT-028: Criar um Landing Page** 
+    - **CT-029: Gerar novo Landing Page** 
+    - **CT-030: Editar um Landing Page** 
+    - **CT-031: Compartilhar um Landing Page** 
+- **Apresentação da Solução**
+    - **CT-032: Mostrar “Em Breve”** 
+- **Marketing Estratégico**
+    - **CT-033: Mostrar “Em Breve”** 
+- **Marketing de Performance**
+    - **CT-034: Mostrar “Em Breve”** 
+### Equipe:
+
+- **Tabela de membros**
+    - **CT-35: Verificar visão administrador proprietário** 
+    - **CT-36: Verificar visão administrador**
+    - **CT-37: Verificar visão gestor**
+    - **CT-38: Verificar visão redator** 
+    - **CT-39: Verificar visão visualizador** 
+- **CT-040: Convidar membro** 
+- **CT-041: Convidar membro de outra organização**
+- **CT-042: Reenviar convite** 
+- **CT-043: Editar membro**
+- **CT-044: Remover membro** 
+### Chat Criativo:
+
+- **CT-045: Criar novo chat** 
+- **CT-046: Editar nome do chat**
+- **CT-047: Deletar chat**
+- **CT-048: Enviar e receber mensagem no chat** 
+- **Botões de atalho no chat**
+    - **CT-049:** **Pedir Análise de Mercado** 
+    - **CT-050:** **Pedir Conteúdo para Instagram** 
+    - **CT-051:** **Pedir Conteúdo para Blog** 
+    - **CT-052:** **Pedir Conteúdo para LinkedIn** 
+- **CT-053: Anexar arquivo** 
+- **Biblioteca de Prompts**
+    - **CT-054: Criar Novo Prompt**
+    - **CT-055: Usar Prompt**
+    - **CT-056: Editar Prompt**
+    - **CT-057: Deletar Prompt**
+    - **CT-058: Criar nova Categoria**
+    - **CT-059: Selecionar Categoria**
+    - **CT-060: Editar Categoria**
+    - **CT-061: Deletar Categoria**
+    - **CT-062: Selecionar Categoria (alterar prompts mostrados)**
+### Notificações:
+
+- **CT-063: Ler notificação** 
+- **CT-064: Ver conteúdo compartilhado** 
+- **CT-065: Marcar todas as notificações como lidas** 
+
+---
+

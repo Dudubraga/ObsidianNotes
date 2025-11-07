@@ -4,22 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "626ce4670f1e9edd",
+        "id": "63feb3763651300d",
         "type": "tabs",
         "children": [
           {
-            "id": "804e07cdb16dcbe4",
+            "id": "0a296d314a181bfa",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "To Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To Do"
+            }
+          },
+          {
+            "id": "de05a0bf6bab5d62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Projects/Padronização do github.md",
+                "file": "02 - Projects/QueenPitch/Todo Cypress CT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Padronização do github"
+              "title": "Todo Cypress CT"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "534d9e295b36e023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed8ffd6528c719f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Projects/QueenPitch/Cypress e2e tests.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cypress e2e tests"
             }
           }
         ]
@@ -105,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Projects/Padronização do github.md",
+                "file": "02 - Projects/PIBIC/Isolation Forest/Isolation Forest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Padronização do github"
+              "title": "Outline of Isolation Forest"
             }
           },
           {
@@ -172,12 +216,12 @@
               "title": "Outgoing links from PARA Method"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,55 +239,55 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "804e07cdb16dcbe4",
+  "active": "b11f170f80aa2cd2",
   "lastOpenFiles": [
+    "02 - Projects/QueenPitch/Cypress e2e tests.md",
+    "02 - Projects/QueenPitch/Todo Cypress CT.md",
+    "02 - Projects/QueenPitch/Todo CT Cypress.md",
+    "02 - Projects/PIBIC/Isolation Forest/Isolation Forest.md",
+    "04 - Resources/Academics/Articles/1-s2.0-S0925231224002960-main.pdf",
+    "04 - Resources/Academics/Articles/Isolation_Forest_Based_Anomaly_Detection_A_Systematic_Literature_Review.pdf",
     "To Do.md",
-    "05 - Archive/Areas/Queen Pitch/Análise Comparativa Gemini 1.5 x 2.5.md",
-    "05 - Archive/Areas/Queen Pitch/Atualizações no Onboarding.md",
-    "05 - Archive/Areas/Queen Pitch",
-    "05 - Archive/Areas/Untitled.md",
-    "03 - Areas/Trabalho/QueenPitch.md",
-    "05 - Archive/Areas/Queen Pitch/Equipes.md",
-    "01 - Dailys/20251021.md",
-    "01 - Dailys/20251020.md",
-    "02 - Projects/Padronização do github.md",
-    "01 - Dailys/20251016.md",
-    "03 - Areas/Desenhos/Tentativa de braço.md",
-    "01 - Dailys/20251015.md",
-    "01 - Dailys/20251014.md",
-    "Untitled",
-    "02 - Projects/6º Período/Arquitetura de Sistemas.md",
-    "05 - Archive/Resourses/Images/Queen/bug queen 2.png",
-    "05 - Archive/Projects/Obsidian Setup/Obsidian.md",
-    "01 - Dailys/20251013.md",
-    "02 - Projects/QueenPitch/Testes API Postman.md",
-    "02 - Projects/PIBIC/PIBIC.md",
-    "05 - Archive/Projects/PIBIC/Sugestões Apresentação Henrique - ENIAC.md",
-    "PARA Method.canvas",
-    "03 - Areas/Acadêmica/UNICAP/Graduação.base",
-    "02 - Projects/6º Período/6º Período.md",
+    "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
+    "01 - Dailys/2025-11-06.md",
+    "04 - Resources/Academics/Articles/Liu et al. - 2008 - Isolation Forest.pdf",
+    "04 - Resources/Academics/Materials/Presentation - Isolation Forest.pdf",
+    "04 - Resources/Academics/Materials/Aula Paradigmas 10 - Programação Orientada a Objetos.pdf",
+    "04 - Resources/Academics/Materials/Aula Paradigmas 06 - Expressões e Sentenças de Atribuição.pdf",
+    "04 - Resources/Academics/Materials/Aula Paradigmas 07 - Estruturas de Controle no Nível de Sentença.pdf",
+    "04 - Resources/Academics/Materials/Aula Paradigmas 08 - Subprogramas.pdf",
+    "04 - Resources/Academics/Materials/Aula Paradigmas 09 - Exceções.pdf",
+    "01 - Dailys/2025/2025.md",
+    "01 - Dailys/Untitled.md",
+    "01 - Dailys/2025/2025-10/Untitled.md",
+    "01 - Dailys/2025/2025-10/2025-10-07.md",
+    "01 - Dailys/2025/2025-09/2025-09-29.md",
+    "01 - Dailys/2025-11-04.md",
+    "00 - Templates/Template Weekly.md",
     "Untitled.md",
-    "03 - Areas/Financeira/Gastos.md",
-    "03 - Areas/Financeira/Investimentos.md",
-    "01 - Dailys/20251001.md",
-    "01 - Dailys/Logbook/2025-09/20250929.md",
-    "01 - Dailys/Logbook/2025-09/20250928.md",
-    "03 - Areas/Acadêmica/UNICAP/Untitled.base",
+    "00 - Templates/Template Daily.md",
+    "03 - Areas/Acadêmica/UNICAP/Graduação.base",
+    "01 - Dailys/20251103.md",
+    "01 - Dailys/2025/2025-10/2025-10-21.md",
+    "01 - Dailys/20251029.md",
+    "05 - Archive/Projects/Padronização do github.md",
+    "02 - Projects/6º Período/Untitled.md",
+    "01 - Dailys/20251023.md",
+    "01 - Dailys/20251027.md",
+    "02 - Projects/6º Período/Computação Gráfica.md",
+    "01 - Dailys/20251022.md",
+    "Pasted image 20251021082605.png",
+    "05 - Archive/Areas/Queen Pitch/Análise Comparativa Gemini 1.5 x 2.5.md",
+    "05 - Archive/Resourses/Images/Queen/bug queen 2.png",
+    "PARA Method.canvas",
     "04 - Resources/Images/Queen/Bug visual muitos projetos convite.png",
     "04 - Resources/Images/Queen/Bug visual muitos projetos edit.png",
-    "04 - Resources/Images/Queen/Bug - Usuário Pendente.mp4",
-    "04 - Resources/Academics/Materials/Projeto PDAE - Business Case & Blueprint.pdf",
-    "01 - Dailys/Logbook",
-    "01 - Dailys/Logbook/2025-09",
     "04 - Resources/Images/Queen/vazando senha projeto.png",
-    "04 - Resources/Images/Queen",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 1.png",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 2.png",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 3.png",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 4.png",
     "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 5.png",
-    "04 - Resources/Images/Minecraft/ATM10/Blueprint Vila Nordica 6.png",
-    "04 - Resources/Images/Minecraft/ATM10",
     "Teste.canvas",
     "04 - Resources/Acadêmicos/Materials/Untitled.canvas"
   ]

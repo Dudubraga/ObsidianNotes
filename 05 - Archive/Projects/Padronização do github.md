@@ -6,7 +6,7 @@ tags:
 - [template cadeiras](https://github.com/Dudubraga/template-cadeiras-unicap)
 - [template projetos](https://github.com/Dudubraga/template-projetos-unicap)
 
-### Repositórios
+### Repositórios da [[Unicap]]
 
 ##### Cadeira/Projeto - Nome Projeto
 > https://github.com/Dudubraga/
@@ -315,7 +315,7 @@ Abaixo estão o protótipo criado no Figma e uma tela da aplicação em funciona
 | Rafael Angelim    | [@RafaelAngelim](https://github.com/RafaelAngelim) |
 ```
 ---
-##### Cadeira - POO
+##### Cadeira - POO :LiCheckSquare:
 > unicap-cc-poo
 - README
 ```md
@@ -334,4 +334,235 @@ Abaixo estão o protótipo criado no Figma e uma tela da aplicação em funciona
 - [Projeto Final](https://github.com/Dudubraga/unicap-cc-proj-sistema-bancario)
 ```
 ---
-##### ...
+##### Cadeiras - P2, ED1, ED2, Grafos :LiCheckSquare:
+> unicap-cc-programacao-e-estruturas-de-dados
+```md
+# 📚 Programação e Estruturas de Dados
+> Repositório dedicado às anotações, exercícios e códigos de prática das disciplinas de programação e estruturas de dados. 
+
+- **Instituição:** UNICAP
+
+- **Cadeira:** Programação Estruturada 
+- **Professor:** Diego Pinheiro
+- **Período:** 2023.2
+- **Ementa:** Estruturas de dados básicas. Algoritmos elementares de pesquisa em memória primária. Algoritmos elementares de ordenação em memória primária.
+
+- **Cadeira:** Estrutura de Dados 1 (Estrutura de Dados Lineares)
+- **Professor:** Diego Pinheiro
+- **Período:** 2024.1
+- **Ementa:** Estudo das estruturas de dados clássicas, suas características funcionais, formas de representação, operações associadas e sua utilização na construção de aplicações computacionais.
+
+- **Cadeira:** Estrutura de Dados 2 (Árvores e Ordenação de Dados)
+- **Professor:** Ana Elisa
+- **Período:** 2024.2
+- **Ementa:** Estudo das árvores (estruturas de dados não lineares), suas caracteristicas funcionais, formas de representação e utilização na construção de aplicações computacionais. Estudo dos algoritmos de ordenação.
+
+- **Cadeira:** Grafos (Ciência das Redes)
+- **Professor:** Marcos Canejo
+- **Período:** 2025.1
+- **Ementa:** Estudo da teoria dos grafos com enfase em conceitos matemáticos, estruturas de dados e algoritmos que sao necessários para a aplicação da teoria dos grafos na resoluçao de problemas da ciência da computaçao, incluindo a análise de dados baseados em redes.
+
+---
+
+## 💻 Links de Atividades ou Projetos
+```
+##### Cadeira - PWM :LiCheckSquare:
+> unicap-cc-programacao-web-e-mobile
+```md
+# 📚 Programação Web e Mobile
+> Repositório dedicado às anotações, exercícios e códigos de prática da disciplina de Programação Web e Mobile.
+
+- **Instituição:** UNICAP
+- **Professor:** Marcio Bueno
+- **Período:** 2024.1
+- **Visão Geral:** Introdução de conceitos fundamentais do desenvolvimento de aplicações para plataformas web e mobile. Desde a estruturação de páginas com HTML e estilização com CSS até a criação de aplicações móveis híbridas com React Native.
+
+![image]()
+
+---
+
+## 💻 Links de Atividades ou Projetos
+
+- [Quiz C3](https://github.com/Dudubraga/Projeto-Web-Mobile)
+- [Portfólio Pessoal Web](https://github.com/Dudubraga/Portifolio-Web)
+- [Bicudinho's ToDo](https://github.com/Dudubraga/ToDo-PWM)
+- [Portfólio Pessoal Mobile](https://github.com/Dudubraga/Portfolio-Mobile)
+
+```
+##### Projeto - Quiz C3 :LiCheckSquare:
+> unicap-cc-proj-quiz-c3
+```md
+# 🚀 Quiz C3
+> Projeto da disciplina de [Programação Web e Mobile](https://github.com/Dudubraga/unicap-cc-programacao-web-e-mobile)
+
+## 📖 Visão Geral
+
+Este projeto é um site de quiz desenvolvido para os alunos do curso de **Ciência da Computação** da Universidade Católica de Pernambuco. Ele foi pensado no contexto da **gamificação da educação**, com o objetivo de tornar o aprendizado mais interativo e envolvente.
+
+- **Instituição:** UNICAP
+- **Professor:** Marcio Bueno
+- **Período:** 2025.1
+
+## ✨ Funcionalidades
+
+- Sistema de quiz com perguntas aleatórias por período.
+- Pontuação acumulada para cada usuário.
+- Cadastro e login de usuários com validação de CAPTCHA.
+- Página de perfil do usuário com informações e possibilidade de alterar a senha.
+- CRUD de uma entidade interligada ao banco de dados.
+- Integração com uma API externa.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Frontend**: React, Next.js
+- **Backend**: [Back4App](https://www.back4app.com/?utm_source=google-ads&utm_medium=display&utm_campaign=performancemax-remarketing&gad_source=1&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkU2Vxv26lE6yhwNg0KeSYXs3qXev9k9iKioPy6sH7UakXny_kUlV3oaAhXIEALw_wcB)
+- **Estilização**: CSS
+- **API Externa**: [Google ReCAPTCHA](https://cloud.google.com/security/products/recaptcha?hl=pt-BR)
+  
+## 🌐 Live Demo
+
+Acesse a versão publicada do quiz através deste [link](https://projeto-web-mobile-seven.vercel.app/).
+
+## 👨‍💻 Equipe
+
+| Nome              | GitHub                               |
+| ----------------- | ------------------------------------ |
+| Eduardo Braga     | [@Dudubraga](https://github.com/Dudubraga) |
+| Henrique Franca   | [@HenriqueFrancaa](https://github.com/HenriqueFrancaa) |
+| Isabela Medeiros  | [@belamedeirosbl](https://github.com/belamedeirosbl) |
+| Júlia Galvão      | [@juliaavilelaa](https://github.com/juliaavilelaa) |
+| Rafael Angelim    | [@RafaelAngelim](https://github.com/RafaelAngelim) |
+```
+##### Projeto - Portfolio Web :LiCheckSquare:
+> unicap-cc-proj-portfolio-web
+```md
+# 🚀 Portfólio Web
+> Projeto da disciplina de [Programação Web e Mobile](https://github.com/Dudubraga/unicap-cc-programacao-web-e-mobile)
+
+## 📖 Visão Geral
+
+Welcome to my personal portfolio! This project showcases my projects and skills as a Computer Science student and developer.
+
+- **Instituição:** UNICAP
+- **Professor:** Marcio Bueno
+- **Período:** 2025.1
+
+![Portfolio Preview](./src/Images/portifolio.png)
+
+## ✨ Funcionalidades
+
+- A brief introduction about myself, including my passion for technology, learning, and competitive programming.
+- A list of projects
+- Includes links to my social media profiles and a contact form for direct communication.
+- Displays my expertise in programming languages and tools using badges.
+- 🕹️ Password Game - the portfolio includes a fun implementation of the Bulls and Cows game.
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Frontend**: HTML, JavaScript
+- **Estilização**: CSS
+  
+## 🌐 Live Demo
+
+Acesse a versão publicada do quiz através deste [link](https://projeto-web-mobile-seven.vercel.app/).
+```
+##### Projeto - Portfolio Mobile :LiCheckSquare:
+> unicap-cc-proj-portfolio-mobile
+```md
+# 🚀 Portfólio Mobile
+> Projeto da disciplina de [Programação Web e Mobile](https://github.com/Dudubraga/unicap-cc-programacao-web-e-mobile)
+
+## 📖 Visão Geral
+
+Este é um aplicativo de portfólio pessoal desenvolvido em React Native com Expo, criado como projeto individual para a disciplina de Programação Web e Mobile.
+
+- **Instituição:** UNICAP
+- **Professor:** Marcio Bueno
+- **Período:** 2025.1
+  
+## 📱 Screenshots
+
+<div style="display: flex; gap: 10px;">
+  <img src="images/screenshot_home.jpg" alt="Home" width="30%"/>
+  <img src="images/screenshot_projetos_1.jpg" alt="Projetos 1" width="30%"/>
+  <img src="images/screenshot_projetos_2.jpg" alt="Projetos 2" width="30%"/>
+</div>
+
+## ✨ Funcionalidades
+
+- Apresentação pessoal e trajetória acadêmica.
+- Exibição de projetos desenvolvidos, com imagens e links.
+- Exibição de projetos de extensão (Experiência Acadêmica).
+- Lista de habilidades técnicas e ferramentas conhecidas.
+- Lista de habilidades técnicas e ferramentas utilizadas no desenvolvimento desse projeto.
+- Contato via redes sociais.
+- Jogo interativo de adivinhação de senha.
+
+## 🛠️ Tecnologias Utilizadas
+
+- React Native
+- TypeScript
+- Expo
+  
+## 📦 Download do APK
+
+Baixe o APK mais recente [aqui](https://github.com/Dudubraga/unicap-cc-proj-portfolio-mobile/releases).
+```
+##### Projeto - Bicudinho's To Do Mobile :LiCheckSquare:
+> unicap-cc-proj-bicudinhos-to-do
+```md
+# 🚀 Portfólio Mobile
+> Projeto da disciplina de [Programação Web e Mobile](https://github.com/Dudubraga/unicap-cc-programacao-web-e-mobile)
+
+## 📖 Visão Geral
+
+App para nosso grupo da faculdade organizar o que cada um deve fazer nos projetos acadêmicos.
+
+- **Instituição:** UNICAP
+- **Professor:** Marcio Bueno
+- **Período:** 2025.1
+
+<img src="./BicudinhosToDo/assets/images/logo-ToDo.png" width="50%" />
+
+## ✨ Funcionalidades
+
+- Criação, edição e remoção de projetos e atividades.
+- Associar membros a certas atividades de projetos.
+- Telas individuais de cada membro com todas as suas atividades.
+
+## 🛠️ Tecnologias Utilizadas
+
+- React Native
+- TypeScript
+- Expo
+  
+## 📦 Download do APK
+
+Baixe o APK mais recente [aqui](https://github.com/Dudubraga/unicap-cc-proj-bicudinhos-to-do/releases).
+
+## 👨‍💻 Equipe
+
+| Nome              | GitHub                               |
+| ----------------- | ------------------------------------ |
+| Eduardo Braga     | [@Dudubraga](https://github.com/Dudubraga) |
+| Henrique Franca   | [@HenriqueFrancaa](https://github.com/HenriqueFrancaa) |
+| Isabela Medeiros  | [@belamedeirosbl](https://github.com/belamedeirosbl) |
+| Júlia Galvão      | [@juliaavilelaa](https://github.com/juliaavilelaa) |
+| Rafael Angelim    | [@RafaelAngelim](https://github.com/RafaelAngelim) |
+```
+##### Cadeira - Redes de Computadores :LiCheckSquare:
+> unicap-cc-redes-de-computadores
+```md
+# 📚 Redes de Computadores
+> Repositório dedicado às anotações, exercícios e códigos de prática da disciplina de Redes de Computadores.
+
+- **Instituição:** UNICAP
+- **Professor:** Assis Tiago
+- **Período:** 2025.1
+- **Visão Geral:** Esta disciplina aborda a arquitetura de redes de computadores, estudando os modelos de referência OSI e TCP/IP. O curso foca nas camadas de Enlace (Ethernet, Wi-Fi), Rede (Protocolo IP, Roteamento) e Transporte (TCP, UDP), cobrindo os protocolos e fundamentos da comunicação de dados.
+
+---
+
+## 💻 Links de Atividades ou Projetos
+
+```
