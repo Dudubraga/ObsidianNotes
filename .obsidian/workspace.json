@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19496b318a075a53",
+        "id": "302a734cbe11d071",
         "type": "tabs",
         "children": [
           {
-            "id": "36f51851eb1a6132",
+            "id": "0687ac096c088939",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 - Projects/Férias/Projetinhos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Projetinhos"
+              "icon": "lucide-file-text",
+              "title": "Paradigmas - Resumo 2GQ"
             }
           }
         ]
@@ -195,30 +192,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da6701288be2bada",
+  "active": "0687ac096c088939",
   "lastOpenFiles": [
+    "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
+    "02 - Projects/6º Período/Arquitetura de Sistemas.md",
+    "02 - Projects/Férias/Teste.canvas",
+    "02 - Projects/Férias/Calendário.md",
+    "02 - Projects/Férias/Untitled.canvas",
+    "02 - Projects/Férias/Cursos.md",
+    "02 - Projects/Férias/Jogos.md",
+    "02 - Projects/Férias/Projetinhos.md",
+    "To Do.md",
+    "02 - Projects/Férias/Teste.canva",
+    "02 - Projects/Férias/canva 1.json",
+    "01 - Dailys/2025/2025-10/2025-10-15.md",
+    "PARA Method.canvas",
     "02 - Projects/Férias/canva.canvas",
     "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ.pdf",
-    "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
-    "02 - Projects/Férias/Teste.canva",
     "01 - Dailys/2025-11-28.md",
     "02 - Projects/Férias/Canva.json",
     "02 - Projects/Férias/Canva.canva",
     "02 - Projects/Férias/Canva.txt",
     "02 - Projects/Férias/Novo(a) Documento de Texto.txt",
-    "02 - Projects/Férias/Calendário.md",
-    "02 - Projects/Férias/Cursos.md",
-    "02 - Projects/Férias/Jogos.md",
-    "02 - Projects/Férias/Projetinhos.md",
     "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ (Ana Bia).pdf",
     "02 - Projects/6º Período/Ciência dos Dados.md",
     "04 - Resources/Academics/Materials/PDAE - Modelo de Criação - Blueprint.pdf",
     "04 - Resources/Academics/Materials/PDAE - Business Case & Blueprint.pdf",
     "02 - Projects/6º Período/Resumo Paradigmas 2GQ.md",
-    "04 - Resources/Academics/Materials/Arquitetura de Sistemas - Resumo 2GQ.pdf",
-    "02 - Projects/6º Período/Arquitetura de Sistemas.md",
     "02 - Projects/6º Período/Computação Gráfica.md",
-    "To Do.md",
     "03 - Areas/Desenhos/Tentativa de braço.md",
     "02 - Projects/6º Período/Prova 2GQ Microsserviços.md",
     "02 - Projects/6º Período/GC - Lista 2.md",
@@ -233,8 +234,6 @@
     "05 - Archive/Areas/Queen Pitch/Equipes.md",
     "05 - Archive/Projects/Obsidian Setup/Obsidian.md",
     "02 - Projects/6º Período/Laboratório & Diagnósticos.md",
-    "02 - Projects/PIBIC/Learning From Data.md",
-    "PARA Method.canvas",
     "Pasted image 20251021082605.png",
     "05 - Archive/Resourses/Images/Queen/bug queen 2.png",
     "04 - Resources/Images/Queen/Bug visual muitos projetos convite.png",

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"phase1-group","type":"group","x":-400,"y":0,"width":500,"height":900,"label":"FASE 1: O SETUP (01/12 - 23/12)"},
+		{"id":"phase3-group","type":"group","x":800,"y":0,"width":500,"height":900,"label":"FASE 3: A ENTREGA (11/01 - 08/02)"},
+		{"id":"phase2-group","type":"group","x":200,"y":0,"width":500,"height":600,"color":"3","label":"FASE 2: VIAGEM / OFF (24/12 - 10/01)"},
+		{"id":"title","type":"text","text":"# 🏖️ WAR ROOM: FÉRIAS 2024/25\n**Missão:** Descanso Inteligente & Evolução Dev","x":200,"y":-400,"width":800,"height":120,"color":"1"},
+		{"id":"p1-dev","type":"text","text":"## 🛠️ Infraestrutura (Prioridade 1)\n\n- [ ] **Linux Server:** Instalar Mint/Ubuntu no Samsung Odyssey.\n- [ ] **Docker:** Subir Portainer.\n- [ ] **Minecraft:** Subir container `itzg/minecraft-server`.\n- [ ] **Sentinela:** Subir n8n e testar Webhook Discord.","x":-380,"y":40,"width":460,"height":250,"color":"1"},
+		{"id":"p1-study","type":"text","text":"## 🎓 Estudos\n\n- [ ] **Git & GitHub:** (Foco total aqui para não travar nos deploys).\n- [ ] **Beat Procrastination:** (Fazer no dia 1).","x":-380,"y":320,"width":460,"height":180,"color":"4"},
+		{"id":"p1-game","type":"text","text":"## 🎮 Lazer & Dupla\n\n- [ ] **Minecraft:** Testar servidor com a namorada 👩‍❤️‍👨.\n- [ ] **Hades 1:** Focar na história.\n- [ ] **It Takes Two:** Jogar as fases finais 👩‍❤️‍👨.","x":-380,"y":540,"width":460,"height":200,"color":"5"},
+		{"id":"p2-main","type":"text","text":"## 🚫 MODO OFFLINE\n\n- **Zero Code:** Não levar notebook.\n- **Anotações:** Usar celular apenas para anotar ideias súbitas.\n- **Social:** Curtir a família e a namorada.","x":220,"y":40,"width":460,"height":200,"color":"3"},
+		{"id":"p2-study","type":"text","text":"## 🎓 Leitura de Viagem\n\n- [ ] **Curso Investimentos:** Assistir no avião/carro.\n- [ ] Organizar metas financeiras 2026.","x":220,"y":280,"width":460,"height":150,"color":"4"},
+		{"id":"p3-dev","type":"text","text":"## 🚀 Projetos Finais\n\n- [ ] **Coolify:** Instalar e conectar GitHub (Requer curso de Git concluído).\n- [ ] **Lounge do Açaí:** Implementar Bluetooth e QA com a namorada 👩‍❤️‍👨.\n- [ ] **IoT (Arduino):** Controlar luz do quarto com Python.\n- [ ] **Scraper:** Subir bot de preços no Coolify.","x":820,"y":40,"width":460,"height":300,"color":"1"},
+		{"id":"p3-study","type":"text","text":"## 🎓 Certificação\n\n- [ ] **AWS Cloud Practitioner:** Estudar 1h/dia.\n- [ ] Fazer simulados.","x":820,"y":380,"width":460,"height":180,"color":"4"},
+		{"id":"p3-game","type":"text","text":"## 🏆 Zerar Backlog\n\n- [ ] **Danganronpa V3:** Maratona com a namorada 👩‍❤️‍👨.\n- [ ] **Hades 2:** Explorar mecânicas.\n- [ ] **Portal 2:** Co-op se sobrar tempo.","x":820,"y":600,"width":460,"height":200,"color":"5"}
+	],
+	"edges":[
+		{"id":"edge3","fromNode":"phase1-group","fromSide":"right","toNode":"phase2-group","toSide":"left"},
+		{"id":"edge4","fromNode":"phase2-group","fromSide":"right","toNode":"phase3-group","toSide":"left"}
+	]
+}
