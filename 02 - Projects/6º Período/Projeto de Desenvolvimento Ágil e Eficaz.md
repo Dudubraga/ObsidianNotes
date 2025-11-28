@@ -12,13 +12,13 @@ tags:
 
 # Lojinha IA
 - Business Case e Blueprint:
-	- [[Projeto PDAE - Business Case & Blueprint.pdf | Apresentação de Business Case e Blueprint]]
+	- [[PDAE - Business Case & Blueprint.pdf| Apresentação de Business Case e Blueprint]]
 	- [Base de Cálculo](https://universidadecatolica-my.sharepoint.com/:x:/r/personal/julia_00000849304_unicap_br/Documents/Base%20de%20calculo%20-%20Business%20case%20(Lojinha%20IA).xlsx?d=w340888e4504042388cd450e41d030fe2&csf=1&web=1&e=iAnZpi)
 	- [Slides Apresentações](https://universidadecatolica-my.sharepoint.com/:p:/r/personal/julia_00000849304_unicap_br/_layouts/15/Doc.aspx?sourcedoc=%7BAF1CE746-E6AC-4A68-AFE3-44C9EF340343%7D&file=Lojinha%20IA%20-%20Business%20Case%20&%20Blueprint.pptx=&nav=eyJzSWQiOjI2NCwiY0lkIjo4MzI1ODA0NTB9&action=edit&mobileredirect=true)
 	- Materiais de Apoio:
-		- [[Modelo de Criação PDAE - Business Case.pdf]]
-		- [[Modelo de Criação PDAE - Blueprint.pdf]]
-		- [[Modelo de Criação PDAE - Base de Cálculo.png]]
+		- [[PDAE - Modelo de Criação - Business Case.pdf]]
+		- [[PDAE - Modelo de Criação - Blueprint.pdf]]
+		- [[PDAE - Modelo de Criação - Base de Cálculo.png]]
 - Design:
 	- Casos de Uso
 - Desenvolvimento:

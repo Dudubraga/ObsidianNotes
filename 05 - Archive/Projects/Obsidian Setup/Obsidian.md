@@ -29,6 +29,6 @@ tags:
 - Zotero Integration
 #### Templates
 - [[Template Daily]]
-- 
+- [[Template Weekly]]
 #### Markdown
 - [[Cheat Sheet Markdown]]

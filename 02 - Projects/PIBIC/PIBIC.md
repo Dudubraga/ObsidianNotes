@@ -10,6 +10,7 @@ Artigos:
 - [[Cooling Fan Fault Diagnostics Using Vibrational and Acoustical Analyses.pdf]]
 - [[Forecasting Imminent Failures in Electrical.pdf]]
 - [[Prediction of Motor Failure Time Using An Artificial.pdf]]
+- [[Layered isolation forest A multilevel subspace algorithm for improving isolation fores.pdf]]
 
 Livros:
 - [[Learning From Data]]

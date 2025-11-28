@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Backlog
@@ -12,7 +14,7 @@ kanban-plugin: board
 
 ## Ready
 
-- [ ] **UNICAP** - Entrega Final PDAE @{2025-11-14}
+- [ ] **Queen** - Novo Front do dashboard
 - [ ] **PIBIC** - Implementar [[Isolation Forest]] em Pytorch
 - [ ] **PIBIC** - Leitura [[Prediction of Motor Failure Time Using An Artificial.pdf]]
 - [ ] **Finalizar** [[Lounge do Açaí]]
@@ -24,35 +26,29 @@ kanban-plugin: board
 ## On Hold
 
 - [ ] **PIBIC** - Formalização de Algoritmo [[Isolation Forest]]
-- [ ] **UNICAP** - Estudar para prova de [[Ciência dos Dados]] @{2025-11-27}
-- [ ] **UNICAP** - Estudar para prova de [[Paradigmas de Linguagens de Programação]] @{2025-11-25}
-- [ ] **UNICAP** - Estudar para prova de [[Computação Gráfica]] @{2025-11-24}
-- [ ] **UNICAP** - Estudar para prova de [[Arquitetura de Sistemas]] @{2025-11-24}
+- [ ] **Maratona** - [[Texto de encerramento]]
 
 
 ## In Progress
 
-- [ ] **Queen** - [[Cypress e2e tests]] @{2025-11-07}
-- [ ] **UNICAP** - Sprint 4 (Desenvolvimento 1): [[Projeto de Desenvolvimento Ágil e Eficaz]] @{2025-11-14}
+- [ ] **UNICAP** - Estudar para prova de [[Paradigmas de Linguagens de Programação]] @{2025-11-25}
 - [ ] **PIBIC** - Colocar os sensores de vibração e corrente para coletar dados
-- [ ] **UNICAP** - Projeto [[Paradigmas de Linguagens de Programação]] @{2025-11-18}
-- [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]] @{2025-11-23}
 
 
 ## In Review
 
+- [ ] **Queen** - [[Cypress e2e tests]] @{2025-11-07}
 - [ ] **PIBIC** - Leitura [[A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf]]
 - [ ] **PIBIC** - Leitura [[Challenges and Opportunities of Deep Learning.pdf]]
-- [ ] **Maratona** - [[Texto de encerramento]]
-- [ ] **UNICAP** - Projeto 2 [[Computação Gráfica]] @{2025-11-05}
-- [ ] **UNICAP** - Projeto 2 [[Arquitetura de Sistemas]]
+- [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]] @{2025-11-23}
 
 
 ## Done
 
 **Complete**
-- [x] **UNICAP** - Atividade 4 [[Ciência dos Dados]] @{2025-11-06}
-- [x] **PIBIC** - Apresentação da formalização do [[Isolation Forest]]
+- [x] **UNICAP** - Estudar para prova de [[Ciência dos Dados]] @{2025-11-27}
+- [x] **UNICAP** - Estudar para prova de [[Arquitetura de Sistemas]] @{2025-11-24}
+- [x] **UNICAP** - Estudar para prova de [[Computação Gráfica]] @{2025-11-24}
 
 
 

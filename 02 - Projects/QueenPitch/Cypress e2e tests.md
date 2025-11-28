@@ -346,8 +346,8 @@ tags:
 - **CT-001: Cadastrar um novo usuário** 
 - **CT-002: Cadastrar um usuário já existente**
 - **CT-003: Cadastrar um novo usuário por convite** 
-- **CT-004: Login do usuário** 
-- **CT-005: Login do usuário inexistente** 
+- **CT-004: Login e logout do usuário** 
+- **CT-005: Login do usuário inválido** 
 - **CT-006: Editar dados do usuário** 
 - **CT-007: Deletar usuário**
 ### Projeto:
@@ -370,7 +370,7 @@ tags:
     - **CT-019: Compartilhar um Pitch** 
 - **Persona**
     - **CT-020: Criar um Persona** 
-    - **CT-021: Gerar novo Persona** 
+    - **CT-021: Gerar nova Persona** 
     - **CT-022: Editar um Persona** 
     - **CT-023: Compartilhar um Persona** 
 - **Planejamento de Conteúdo**

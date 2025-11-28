@@ -6,31 +6,20 @@ tags:
 
 Notas sobre o livro [[Learning from data a short course.pdf]]
 
-## Chapter 1 - The Learning Problem
-
-> Learning from data is used in situations where we don't have an analytic solution, but we do have data that we can use to construct an empirical solu tion.
-[[Learning from data a short course.pdf#page=14&selection=17,0,19,5|Learning from data a short course, page 14]]
-
-
-
+### Chapter 1 - The Learning Problem
+- [Aula 1](https://youtu.be/Sx-OxTvJekA?si=haCpfKfgZgMiLmet)
+- [Aula 2](https://youtu.be/MEG35RDD7RA?si=KRi-OSqn3lAvl_SH)
+- [Aula 4](https://youtu.be/L_0efNkdGMc?si=BRxpMT74pspzie0J)
+- 
 ---
-## Chapter 2 - Training versus Testing
-
-
+### Chapter 2 - Training vs Testing
+- [Aula 8](https://youtu.be/zrEyxfl2-a8?si=kYa1KqnQ1lVOoDqo)
+- 
 ---
-## Chapter 3 - The Linear Model
+### Chapter 3 - The Linear Model
 
-
+- [Aula 3](https://youtu.be/FIbVs5GbBlQ?si=Gew8UZQpxVAYgSgN)
+- [Aula 9](https://youtu.be/qSTHZvN8hzs?si=g2QXRC1Ej8jZGRoi)
+- 
 ---
-## Chapter 4 - Overfitting
 
-
----
-## Chapter 5 - Three Learning Principles
-
-
----
-## Epilogue
-
-
----

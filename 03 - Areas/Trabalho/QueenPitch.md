@@ -14,4 +14,5 @@ Kanban - [Jira](https://gclindenberg.atlassian.net/jira/software/c/projects/QP/b
 - [[Atualizações no Onboarding]]
 - [[Testes API Postman]]
 ### Frontend
+- [[Equipes]]
 - 

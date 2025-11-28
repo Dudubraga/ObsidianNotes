@@ -11,11 +11,11 @@ tags:
 
 # 1GQ
 ### Materiais de Apoio:
-- [[Aula Paradigmas 01 - Apresentação de Conceitos.pdf]]
-- [[Aula Paradigmas 02 - História.pdf]]
-- [[Aula Paradigmas 03 - Sintaxe e Semântica.pdf]]
-- [[Aula Paradigmas 04 - Nomes Vinculações e Escopos.pdf]]
-- [[Aula Paradigmas 05 - Tipos de Dados.pdf]]
+- [[Paradigmas - Aula 01 - Apresentação de Conceitos.pdf]]
+- [[Paradigmas - Aula 02 - História.pdf]]
+- [[Paradigmas - Aula 03 - Sintaxe e Semântica.pdf]]
+- [[Paradigmas - Aula 04 - Nomes Vinculações e Escopos.pdf]]
+- [[Paradigmas - Aula 05 - Tipos de Dados.pdf]]
 
 ### Conceitos Fundamentais:
 ##### Motivações e Critérios de Avaliação
@@ -166,9 +166,13 @@ Uma matriz é um agregado homogêneo de elementos de dados, onde cada elemento �
 	- **Equivalência por Estrutura:** Dois tipos são equivalentes se tiverem a mesma estrutura interna, independentemente de seus nomes. É mais flexível, mas pode ser menos segura, pois trataria os tipos Celsius e Fahrenheit do exemplo anterior como equivalentes.
 # 2º GQ
 ### Materiais de Apoio:
-- [[Aula Paradigmas 06 - Expressões e Sentenças de Atribuição.pdf]]
-- [[Aula Paradigmas 07 - Estruturas de Controle no Nível de Sentença.pdf]]
-- [[Aula Paradigmas 08 - Subprogramas.pdf]]
-- [[Aula Paradigmas 09 - Exceções.pdf]]
-- [[Aula Paradigmas 10 - Programação Orientada a Objetos.pdf]]
+- [[Paradigmas - Aula 06 - Expressões e Sentenças de Atribuição.pdf]]
+- [[Paradigmas - Aula 07 - Estruturas de Controle no Nível de Sentença.pdf]]
+- [[Paradigmas - Aula 08 - Subprogramas.pdf]]
+- [[Paradigmas - Aula 09 - Exceções.pdf]]
+- [[Paradigmas - Aula 10 - Programação Orientada a Objetos.pdf]]
+- [[Paradigmas - Aula 12 - Programação Funcional.pdf]]
+- [[Paradigmas - Aula 13 - Programação Lógica.pdf]]
 ### Resumo:
+- [[Paradigmas - Resumo 2GQ.pdf]]
+- [[Paradigmas - Resumo 2GQ (Ana Bia).pdf]]

@@ -4,30 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "63feb3763651300d",
+        "id": "19496b318a075a53",
         "type": "tabs",
         "children": [
           {
-            "id": "0a296d314a181bfa",
+            "id": "36f51851eb1a6132",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "02 - Projects/Férias/Projetinhos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "To Do"
+              "icon": "lucide-file",
+              "title": "Projetinhos"
             }
           }
         ]
@@ -87,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -181,8 +172,7 @@
               "title": "Outgoing links from PARA Method"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,47 +195,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a296d314a181bfa",
+  "active": "da6701288be2bada",
   "lastOpenFiles": [
-    "02 - Projects/QueenPitch/Todo Cypress CT.md",
-    "02 - Projects/QueenPitch/Cypress e2e tests.md",
-    "02 - Projects/QueenPitch/Todo CT Cypress.md",
-    "02 - Projects/PIBIC/Isolation Forest/Isolation Forest.md",
-    "04 - Resources/Academics/Articles/1-s2.0-S0925231224002960-main.pdf",
-    "04 - Resources/Academics/Articles/Isolation_Forest_Based_Anomaly_Detection_A_Systematic_Literature_Review.pdf",
-    "To Do.md",
+    "02 - Projects/Férias/canva.canvas",
+    "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ.pdf",
     "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
-    "01 - Dailys/2025-11-06.md",
-    "04 - Resources/Academics/Articles/Liu et al. - 2008 - Isolation Forest.pdf",
-    "04 - Resources/Academics/Materials/Presentation - Isolation Forest.pdf",
-    "04 - Resources/Academics/Materials/Aula Paradigmas 10 - Programação Orientada a Objetos.pdf",
-    "04 - Resources/Academics/Materials/Aula Paradigmas 06 - Expressões e Sentenças de Atribuição.pdf",
-    "04 - Resources/Academics/Materials/Aula Paradigmas 07 - Estruturas de Controle no Nível de Sentença.pdf",
-    "04 - Resources/Academics/Materials/Aula Paradigmas 08 - Subprogramas.pdf",
-    "04 - Resources/Academics/Materials/Aula Paradigmas 09 - Exceções.pdf",
-    "01 - Dailys/2025/2025.md",
-    "01 - Dailys/Untitled.md",
-    "01 - Dailys/2025/2025-10/Untitled.md",
-    "01 - Dailys/2025/2025-10/2025-10-07.md",
-    "01 - Dailys/2025/2025-09/2025-09-29.md",
-    "01 - Dailys/2025-11-04.md",
-    "00 - Templates/Template Weekly.md",
-    "Untitled.md",
-    "00 - Templates/Template Daily.md",
-    "03 - Areas/Acadêmica/UNICAP/Graduação.base",
-    "01 - Dailys/20251103.md",
-    "01 - Dailys/2025/2025-10/2025-10-21.md",
-    "01 - Dailys/20251029.md",
-    "05 - Archive/Projects/Padronização do github.md",
-    "02 - Projects/6º Período/Untitled.md",
-    "01 - Dailys/20251023.md",
-    "01 - Dailys/20251027.md",
+    "02 - Projects/Férias/Teste.canva",
+    "01 - Dailys/2025-11-28.md",
+    "02 - Projects/Férias/Canva.json",
+    "02 - Projects/Férias/Canva.canva",
+    "02 - Projects/Férias/Canva.txt",
+    "02 - Projects/Férias/Novo(a) Documento de Texto.txt",
+    "02 - Projects/Férias/Calendário.md",
+    "02 - Projects/Férias/Cursos.md",
+    "02 - Projects/Férias/Jogos.md",
+    "02 - Projects/Férias/Projetinhos.md",
+    "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ (Ana Bia).pdf",
+    "02 - Projects/6º Período/Ciência dos Dados.md",
+    "04 - Resources/Academics/Materials/PDAE - Modelo de Criação - Blueprint.pdf",
+    "04 - Resources/Academics/Materials/PDAE - Business Case & Blueprint.pdf",
+    "02 - Projects/6º Período/Resumo Paradigmas 2GQ.md",
+    "04 - Resources/Academics/Materials/Arquitetura de Sistemas - Resumo 2GQ.pdf",
+    "02 - Projects/6º Período/Arquitetura de Sistemas.md",
     "02 - Projects/6º Período/Computação Gráfica.md",
-    "01 - Dailys/20251022.md",
-    "Pasted image 20251021082605.png",
-    "05 - Archive/Areas/Queen Pitch/Análise Comparativa Gemini 1.5 x 2.5.md",
-    "05 - Archive/Resourses/Images/Queen/bug queen 2.png",
+    "To Do.md",
+    "03 - Areas/Desenhos/Tentativa de braço.md",
+    "02 - Projects/6º Período/Prova 2GQ Microsserviços.md",
+    "02 - Projects/6º Período/GC - Lista 2.md",
+    "01 - Dailys/2025-11-26.md",
+    "01 - Dailys/2025-11-25.md",
+    "02 - Projects/Férias/teste.canvas",
+    "01 - Dailys/Untitled.md",
+    "01 - Dailys/2025-11-24.md",
+    "02 - Projects/PIBIC/PIBIC.md",
+    "02 - Projects/PIBIC/Isolation Forest/Isolation Forest.md",
+    "03 - Areas/Trabalho/QueenPitch.md",
+    "05 - Archive/Areas/Queen Pitch/Equipes.md",
+    "05 - Archive/Projects/Obsidian Setup/Obsidian.md",
+    "02 - Projects/6º Período/Laboratório & Diagnósticos.md",
+    "02 - Projects/PIBIC/Learning From Data.md",
     "PARA Method.canvas",
+    "Pasted image 20251021082605.png",
+    "05 - Archive/Resourses/Images/Queen/bug queen 2.png",
     "04 - Resources/Images/Queen/Bug visual muitos projetos convite.png",
     "04 - Resources/Images/Queen/Bug visual muitos projetos edit.png",
     "04 - Resources/Images/Queen/vazando senha projeto.png",
