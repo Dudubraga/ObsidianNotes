@@ -8,21 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9866aa69aa5c1fd7",
+            "id": "14f16ed88582283c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2753676934604099",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
               "state": {
-                "file": "02 - Projects/6º Período/Arquitetura de Sistemas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "04 - Resources/Academics/Materials/Paradigmas - Resumo 1GQ.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Arquitetura de Sistemas"
+              "icon": "lucide-file-text",
+              "title": "Paradigmas - Resumo 1GQ"
+            }
+          },
+          {
+            "id": "8b705a91e2e2ffe3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Paradigmas - Resumo 2GQ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "right": {
     "id": "6993a9c1dbf7838b",
@@ -195,10 +215,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9866aa69aa5c1fd7",
+  "active": "2753676934604099",
   "lastOpenFiles": [
-    "02 - Projects/6º Período/Arq final.md",
+    "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ.pdf",
+    "04 - Resources/Academics/Materials/Paradigmas - Resumo 1GQ.pdf",
+    "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
+    "04 - Resources/Academics/Materials/Presentation - Isolation Forest.pdf",
+    "02 - Projects/6º Período/Paradigmas - Resumo 1GQ.md",
+    "02 - Projects/Férias/Calendário.md",
+    "02 - Projects/Férias/Teste.canvas",
+    "To Do.md",
+    "01 - Dailys/2025-12-04.md",
     "02 - Projects/6º Período/Arquitetura de Sistemas.md",
+    "02 - Projects/6º Período/Arq final.md",
     "04 - Resources/Academics/Materials/Arquitetura de Sistemas - Resumo 1GQ (Ana Bia).pdf",
     "04 - Resources/Academics/Materials/Arquitetura de Sistemas - Resumo 2GQ.pdf",
     "04 - Resources/Academics/Materials/Arquitetura de Sistemas - Resumo 1GQ (Bela).pdf",
@@ -206,7 +235,6 @@
     "01 - Dailys/2025-12-03.md",
     "02 - Projects/QueenPitch/Cypress e2e tests.md",
     "03 - Areas/Financeira/Gastos.md",
-    "To Do.md",
     "02 - Projects/QueenPitch/Refatoração Frontend.md",
     "04 - Resources/Others/Queen CT-Pagamentos.pdf",
     "01 - Dailys/2025-11-06.md",
@@ -222,21 +250,12 @@
     "01 - Dailys/2025-11-26.md",
     "01 - Dailys/2025-11-28.md",
     "01 - Dailys/2025-11-04.md",
-    "01 - Dailys/2025/2025.md",
     "01 - Dailys/2025/2025-11",
-    "04 - Resources/Academics/Materials/Paradigmas - Resumo 2GQ.pdf",
-    "02 - Projects/6º Período/Paradigmas de Linguagens de Programação.md",
-    "02 - Projects/Férias/Teste.canvas",
-    "02 - Projects/Férias/Calendário.md",
     "02 - Projects/Férias/Untitled.canvas",
-    "02 - Projects/Férias/Cursos.md",
-    "02 - Projects/Férias/Jogos.md",
     "02 - Projects/Férias/Teste.canva",
     "02 - Projects/Férias/canva 1.json",
     "PARA Method.canvas",
     "02 - Projects/Férias/canva.canvas",
-    "02 - Projects/Férias/Canva.json",
-    "02 - Projects/Férias/Canva.canva",
     "02 - Projects/Férias/teste.canvas",
     "Pasted image 20251021082605.png",
     "05 - Archive/Resourses/Images/Queen/bug queen 2.png",

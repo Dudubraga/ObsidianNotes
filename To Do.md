@@ -33,7 +33,7 @@ kanban-plugin: board
 - [ ] **PIBIC** - Colocar os sensores de vibração e corrente para coletar dados
 - [ ] **Queen** - [[Refatoração Frontend]]
 - [ ] **Queen** - [[Cypress e2e tests]] @{2025-11-07}
-- [ ] **UNICAP** - Estudar para prova de [[Arquitetura de Sistemas]] @{2025-12-04}
+- [ ] **UNICAP** - Estudar para prova de [[Paradigmas de Linguagens de Programação]] @{2025-11-25}
 
 
 ## In Review
@@ -47,7 +47,7 @@ kanban-plugin: board
 
 **Complete**
 - [x] **UNICAP** - Estudar para prova de [[Computação Gráfica]] @{2025-11-24}
-- [x] **UNICAP** - Estudar para prova de [[Paradigmas de Linguagens de Programação]] @{2025-11-25}
+- [x] **UNICAP** - Estudar para prova de [[Arquitetura de Sistemas]] @{2025-12-04}
 
 
 
