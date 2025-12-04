@@ -429,6 +429,9 @@ tags:
 - **CT-063: Ler notificação** 
 - **CT-064: Ver conteúdo compartilhado** 
 - **CT-065: Marcar todas as notificações como lidas** 
+### Pagamentos: 
+> [[Queen CT-Pagamentos.pdf]]
+- **CT-066: ???**
 
 ---
 

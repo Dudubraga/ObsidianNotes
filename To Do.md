@@ -14,7 +14,6 @@ kanban-plugin: board
 
 ## Ready
 
-- [ ] **Queen** - Novo Front do dashboard
 - [ ] **PIBIC** - Implementar [[Isolation Forest]] em Pytorch
 - [ ] **PIBIC** - Leitura [[Prediction of Motor Failure Time Using An Artificial.pdf]]
 - [ ] **Finalizar** [[Lounge do Açaí]]
@@ -31,13 +30,14 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] **UNICAP** - Estudar para prova de [[Paradigmas de Linguagens de Programação]] @{2025-11-25}
 - [ ] **PIBIC** - Colocar os sensores de vibração e corrente para coletar dados
+- [ ] **Queen** - [[Refatoração Frontend]]
+- [ ] **Queen** - [[Cypress e2e tests]] @{2025-11-07}
+- [ ] **UNICAP** - Estudar para prova de [[Arquitetura de Sistemas]] @{2025-12-04}
 
 
 ## In Review
 
-- [ ] **Queen** - [[Cypress e2e tests]] @{2025-11-07}
 - [ ] **PIBIC** - Leitura [[A Unified Framework for Replicability of Anomaly Detection in Multiple Time Series.pdf]]
 - [ ] **PIBIC** - Leitura [[Challenges and Opportunities of Deep Learning.pdf]]
 - [ ] **PIBIC & UNICAP** - Leitura [[Learning from data a short course.pdf]] @{2025-11-23}
@@ -46,9 +46,8 @@ kanban-plugin: board
 ## Done
 
 **Complete**
-- [x] **UNICAP** - Estudar para prova de [[Ciência dos Dados]] @{2025-11-27}
-- [x] **UNICAP** - Estudar para prova de [[Arquitetura de Sistemas]] @{2025-11-24}
 - [x] **UNICAP** - Estudar para prova de [[Computação Gráfica]] @{2025-11-24}
+- [x] **UNICAP** - Estudar para prova de [[Paradigmas de Linguagens de Programação]] @{2025-11-25}
 
 
 
